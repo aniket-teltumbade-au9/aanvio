@@ -3568,7 +3568,7 @@
                                         data-id="db74597" data-element_type="section"
                                         data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                         <div class="elementor-container elementor-column-gap-default">
-                                            <div data-column-link="{&quot;url&quot;:&quot;https:\/\/themerchlist.com\/merchandise\/&quot;,&quot;target&quot;:&quot;_self&quot;}"
+                                            <div data-column-link="{&quot;url&quot;:&quot;https:\/\/aanvio.com\/merchandise\/&quot;,&quot;target&quot;:&quot;_self&quot;}"
                                                 class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1a88bf4 rey-colbg--classic"
                                                 data-id="1a88bf4" data-element_type="column"
                                                 data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -3618,7 +3618,7 @@
                                                                 <img decoding="async" width="1000" height="250"
                                                                     src="wp_content/uploads/2024/01/elevate_your_company_with_custom_promotional_products.webp"
                                                                     class="attachment-full size-full wp-image-65400"
-                                                                    alt="Merchlist-Custom-Tshirts-Merch-Promotional-Products-Dubai-AbuDhabi-Riyadh-Custom-Printed-Merchlist-2"
+                                                                    alt="Aanvio-Custom-Tshirts-Merch-Promotional-Products-Dubai-AbuDhabi-Riyadh-Custom-Printed-Aanvio-2"
                                                                     srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/01/ELEVATE-YOUR-COMPANY-WITH-CUSTOM-PROMOTIONAL-PRODUCTS.webp 1000w, <?php echo BASE_URL; ?>wp-content/uploads/2024/01/ELEVATE-YOUR-COMPANY-WITH-CUSTOM-PROMOTIONAL-PRODUCTS-300x75.webp 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/01/ELEVATE-YOUR-COMPANY-WITH-CUSTOM-PROMOTIONAL-PRODUCTS-768x192.webp 768w, <?php echo BASE_URL; ?>wp-content/uploads/2024/01/ELEVATE-YOUR-COMPANY-WITH-CUSTOM-PROMOTIONAL-PRODUCTS-64x16.webp 64w"
                                                                     sizes="(max-width: 1000px) 100vw, 1000px"> </a>
                                                         </div>
@@ -3654,7 +3654,7 @@
                                         data-id="d6bac84" data-element_type="section"
                                         data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                         <div class="elementor-container elementor-column-gap-default">
-                                            <div data-column-link="{&quot;url&quot;:&quot;https:\/\/themerchlist.com\/corporate-merchandise\/&quot;,&quot;target&quot;:&quot;_self&quot;}"
+                                            <div data-column-link="{&quot;url&quot;:&quot;https:\/\/aanvio.com\/corporate-merchandise\/&quot;,&quot;target&quot;:&quot;_self&quot;}"
                                                 class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c7ed3ef"
                                                 data-id="c7ed3ef" data-element_type="column">
                                                 <div
@@ -4147,7 +4147,7 @@
                                                         data-widget_type="heading.default">
                                                         <div class="elementor-widget-container">
                                                             <h2 class="elementor-heading-title elementor-size-default">
-                                                                <a href="https://www.instagram.com/themerchlist/">Aww,
+                                                                <a href="https://www.instagram.com/aanvio/">Aww,
                                                                     thanks guys! <u>#Merchtribe</u> </a>
                                                             </h2>
                                                         </div>
@@ -4380,16 +4380,16 @@
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-shortcode"><a
                                                                 id="calendly-popup-text-widget"
-                                                                data-url="https://calendly.com/merchlist/30min?hide_gdpr_banner=1"
+                                                                data-url="https://calendly.com/aanvio/30min?hide_gdpr_banner=1"
                                                                 class=""
-                                                                onclick="Calendly.initPopupWidget({url: 'https://calendly.com/merchlist/30min?hide_gdpr_banner=1'});return false;"
+                                                                onclick="Calendly.initPopupWidget({url: 'https://calendly.com/aanvio/30min?hide_gdpr_banner=1'});return false;"
                                                                 style="font-size:15px; color:#484f56">Book A Meeting</a>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div data-column-link="{&quot;url&quot;:&quot;mailto:team@themerchlist.com&quot;,&quot;target&quot;:&quot;_blank&quot;}"
+                                        <div data-column-link="{&quot;url&quot;:&quot;mailto:team@aanvio.com&quot;,&quot;target&quot;:&quot;_blank&quot;}"
                                             class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7018153"
                                             data-id="7018153" data-element_type="column">
                                             <div
@@ -4421,7 +4421,7 @@
                                                                 </h3>
 
                                                                 <p class="elementor-icon-box-description">
-                                                                    team@themerchlist.com </p>
+                                                                    team@aanvio.com </p>
 
                                                             </div>
 
@@ -4515,7 +4515,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div data-column-link="{&quot;url&quot;:&quot;https:\/\/calendly.com\/merchlist\/30min&quot;,&quot;target&quot;:&quot;_blank&quot;}"
+                                        <div data-column-link="{&quot;url&quot;:&quot;https:\/\/calendly.com\/aanvio\/30min&quot;,&quot;target&quot;:&quot;_blank&quot;}"
                                             class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-48c6fbc rey-colbg--classic"
                                             data-id="48c6fbc" data-element_type="column"
                                             data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -4554,7 +4554,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div data-column-link="{&quot;url&quot;:&quot;mailto:team@themerchlist.com&quot;,&quot;target&quot;:&quot;_blank&quot;}"
+                                        <div data-column-link="{&quot;url&quot;:&quot;mailto:team@aanvio.com&quot;,&quot;target&quot;:&quot;_blank&quot;}"
                                             class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-bdb1219 rey-colbg--classic"
                                             data-id="bdb1219" data-element_type="column"
                                             data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -4623,7 +4623,7 @@
                                 <div class="elementor-element elementor-element-34100bc elementor-widget elementor-widget-text-editor"
                                     data-id="34100bc" data-element_type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
-                                        <p>Merchlist helps businesses craft unique promotional merchandise that elevates
+                                        <p>Aanvio helps businesses craft unique promotional merchandise that elevates
                                             brand visibility.<br>From custom-branded goods to a wide selection of
                                             corporate gifts, we offer products that are sure to be favorites</p>
                                     </div>
@@ -4639,13 +4639,13 @@
                                                     class="reyEl-menu-nav rey-navEl --menuHover-ulr">
                                                     <li id="menu-item-29169"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29169">
-                                                        <a href="https://maps.app.goo.gl/QyvF7eM8k1R1Bi4m7"><span><strong><u>Office:</u><br>Merchlist
+                                                        <a href="https://maps.app.goo.gl/QyvF7eM8k1R1Bi4m7"><span><strong><u>Office:</u><br>Aanvio
                                                                     FZ LLC, in5 Design, Dubai Design District, Dubai,
                                                                     UAE</strong></span></a>
                                                     </li>
                                                     <li id="menu-item-29170"
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29170">
-                                                        <a href="https://maps.app.goo.gl/wt5TZzXLtS2Ck4xi9"><span><strong><u>Factory:</u><br>Merchlist,
+                                                        <a href="https://maps.app.goo.gl/wt5TZzXLtS2Ck4xi9"><span><strong><u>Factory:</u><br>Aanvio,
                                                                     Ajman Industrial Area Ajman, UAE</strong></span></a>
                                                     </li>
                                                 </ul>
@@ -4660,7 +4660,7 @@
                                         <div class="elementor-social-icons-wrapper elementor-grid" role="list">
                                             <span class="elementor-grid-item" role="listitem">
                                                 <a class="elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-50028a7"
-                                                    href="https://www.instagram.com/themerchlist/" target="_blank">
+                                                    href="https://www.instagram.com/aanvio/" target="_blank">
                                                     <span class="elementor-screen-only"></span>
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="172px" height="172px"
                                                         viewBox="0 0 24 24" fill="none">
@@ -4682,7 +4682,7 @@
                                             </span>
                                             <span class="elementor-grid-item" role="listitem">
                                                 <a class="elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-0b43671"
-                                                    href="https://www.linkedin.com/company/merchlist/" target="_blank">
+                                                    href="https://www.linkedin.com/company/aanvio/" target="_blank">
                                                     <span class="elementor-screen-only"></span>
                                                     <svg xmlns="http://www.w3.org/2000/svg"
                                                         xmlns:xlink="http://www.w3.org/1999/xlink" width="256px"
@@ -4752,7 +4752,7 @@
                                             </span>
                                             <span class="elementor-grid-item" role="listitem">
                                                 <a class="elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-d11790c"
-                                                    href="https://www.youtube.com/@themerchlist" target="_blank">
+                                                    href="https://www.youtube.com/@aanvio" target="_blank">
                                                     <span class="elementor-screen-only"></span>
                                                     <svg xmlns="http://www.w3.org/2000/svg"
                                                         xmlns:xlink="http://www.w3.org/1999/xlink" fill="#FFFFFF"
@@ -5183,7 +5183,7 @@
                                 <div class="elementor-element elementor-element-f85d0aa elementor-widget elementor-widget-text-editor"
                                     data-id="f85d0aa" data-element_type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
-                                        <p>© <a href="<?php echo BASE_URL; ?>">Merchlist</a> FZ LLC 2025. All rights
+                                        <p>© <a href="<?php echo BASE_URL; ?>">Aanvio</a> FZ LLC 2025. All rights
                                             reserved.</p>
                                     </div>
                                 </div>
@@ -6342,9 +6342,9 @@
 
 
                                                     <p class="elementor-icon-box-description">
-                                                        <strong>Office:</strong> Merchlist FZ LLC, in5 Design Centre,
+                                                        <strong>Office:</strong> Aanvio FZ LLC, in5 Design Centre,
                                                         Dubai Design District, Dubai, UAE<br>
-                                                        <strong>Factory:</strong> Merchlist, Ajman Industrial Area
+                                                        <strong>Factory:</strong> Aanvio, Ajman Industrial Area
                                                         Ajman, UAE
                                                     </p>
 
@@ -6357,7 +6357,7 @@
                                         data-id="f99f252" data-element_type="widget"
                                         data-widget_type="text-editor.default">
                                         <div class="elementor-widget-container">
-                                            <p><strong><a href="mailto:team@themerchlist.com">team@themerchlist.com</a>
+                                            <p><strong><a href="mailto:team@aanvio.com">team@aanvio.com</a>
                                                 </strong><br><a href="tel:+971582242212">800-MERCH</a></p>
                                         </div>
                                     </div>
@@ -6417,40 +6417,40 @@
             "menu_items_leave_timer": 200,
             "menu_items_open_event": "hover",
             "embed_responsive": {
-                "src": "https:\/\/themerchlist.com\/wp-content\/themes\/rey\/assets\/css\/components\/embed-responsive\/embed-responsive.css",
+                "src": "https:\/\/aanvio.com\/wp-content\/themes\/rey\/assets\/css\/components\/embed-responsive\/embed-responsive.css",
                 "elements": [".rey-postContent p > iframe", ".rey-wcPanel iframe[src*=\"youtu\"]",
                     ".woocommerce-Tabs-panel iframe[src*=\"youtu\"]",
                     ".woocommerce-product-details__short-description iframe[src*=\"youtu\"]"
                 ]
             },
-            "menu_badges_styles": "https:\/\/themerchlist.com\/wp-content\/themes\/rey\/assets\/css\/components\/header-menu\/menu-badges.css",
+            "menu_badges_styles": "https:\/\/aanvio.com\/wp-content\/themes\/rey\/assets\/css\/components\/header-menu\/menu-badges.css",
             "header_height_on_first_interaction": true
         },
         "lazy_assets": {
             "a[href^='#offcanvas-']": {
                 "styles": {
-                    "reycore-offcanvas-panels": "https:\/\/themerchlist.com\/wp-content\/plugins\/rey-core\/inc\/modules\/offcanvas-panels\/style.css",
-                    "rey-simple-scrollbar": "https:\/\/themerchlist.com\/wp-content\/plugins\/rey-core\/assets\/css\/lib\/simple-scrollbar.css"
+                    "reycore-offcanvas-panels": "https:\/\/aanvio.com\/wp-content\/plugins\/rey-core\/inc\/modules\/offcanvas-panels\/style.css",
+                    "rey-simple-scrollbar": "https:\/\/aanvio.com\/wp-content\/plugins\/rey-core\/assets\/css\/lib\/simple-scrollbar.css"
                 },
                 "scripts": {
-                    "reycore-offcanvas-panels": "https:\/\/themerchlist.com\/wp-content\/plugins\/rey-core\/inc\/modules\/offcanvas-panels\/script.js",
-                    "animejs": "https:\/\/themerchlist.com\/wp-content\/plugins\/rey-core\/assets\/js\/lib\/anime.min.js",
-                    "rey-simple-scrollbar": "https:\/\/themerchlist.com\/wp-content\/plugins\/rey-core\/assets\/js\/lib\/simple-scrollbar.js",
-                    "reycore-elementor-frontend": "https:\/\/themerchlist.com\/wp-content\/plugins\/rey-core\/assets\/js\/elementor\/general.js"
+                    "reycore-offcanvas-panels": "https:\/\/aanvio.com\/wp-content\/plugins\/rey-core\/inc\/modules\/offcanvas-panels\/script.js",
+                    "animejs": "https:\/\/aanvio.com\/wp-content\/plugins\/rey-core\/assets\/js\/lib\/anime.min.js",
+                    "rey-simple-scrollbar": "https:\/\/aanvio.com\/wp-content\/plugins\/rey-core\/assets\/js\/lib\/simple-scrollbar.js",
+                    "reycore-elementor-frontend": "https:\/\/aanvio.com\/wp-content\/plugins\/rey-core\/assets\/js\/elementor\/general.js"
                 }
             },
             "[data-reymodal],[data-rey-inline-modal]": {
                 "styles": {
-                    "reycore-modals": "https:\/\/themerchlist.com\/wp-content\/plugins\/rey-core\/assets\/css\/general-components\/modals\/modals.css"
+                    "reycore-modals": "https:\/\/aanvio.com\/wp-content\/plugins\/rey-core\/assets\/css\/general-components\/modals\/modals.css"
                 },
                 "scripts": {
-                    "reycore-modals": "https:\/\/themerchlist.com\/wp-content\/plugins\/rey-core\/assets\/js\/general\/c-modal.js"
+                    "reycore-modals": "https:\/\/aanvio.com\/wp-content\/plugins\/rey-core\/assets\/js\/general\/c-modal.js"
                 }
             }
         },
         "log_events": "",
         "debug": "",
-        "ajaxurl": "https:\/\/themerchlist.com\/wp-admin\/admin-ajax.php",
+        "ajaxurl": "https:\/\/aanvio.com\/wp-admin\/admin-ajax.php",
         "ajax_nonce": "e20739990f",
         "preloader_timeout": "",
         "v": "1cfc317a897c",
@@ -6479,7 +6479,7 @@
         "header_fix_elementor_zindex": "",
         "woocommerce": "1",
         "wc_ajax_url": "\/?wc-ajax=%%endpoint%%",
-        "rest_url": "https:\/\/themerchlist.com\/wp-json\/rey\/v1",
+        "rest_url": "https:\/\/aanvio.com\/wp-json\/rey\/v1",
         "rest_nonce": "226d3f67fa",
         "catalog_cols": "3",
         "catalog_mobile_cols": "1",
@@ -6535,7 +6535,7 @@
         "ajax_search": "1",
         "fixed_header_activation_point": "0",
         "fixed_header_lazy": "3000",
-        "svg_icons_path": "https:\/\/themerchlist.com?get_svg_icon=%%icon%%",
+        "svg_icons_path": "https:\/\/aanvio.com?get_svg_icon=%%icon%%",
         "svg_icons": {
             "close": "<svg role=\"img\" viewbox=\"0 0 110 110\" class=\"rey-icon rey-icon-close\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\" stroke-linecap=\"square\"><path d=\"M4.79541854,4.29541854 L104.945498,104.445498 L4.79541854,4.29541854 Z\" stroke=\"currentColor\" stroke-width=\"var(--stroke-width, 12px)\"><\/path><path d=\"M4.79541854,104.704581 L104.945498,4.55450209 L4.79541854,104.704581 Z\" stroke=\"currentColor\" stroke-width=\"var(--stroke-width, 12px)\"><\/path><\/g><\/svg>"
         },
@@ -6551,7 +6551,7 @@
             "column_video": true,
             "video_bg_play_on_mobile": true
         },
-        "ajax_url": "https:\/\/themerchlist.com\/wp-admin\/admin-ajax.php",
+        "ajax_url": "https:\/\/aanvio.com\/wp-admin\/admin-ajax.php",
         "ajax_nonce": "ef9d83338f"
     };
     </script>
@@ -6589,7 +6589,7 @@
     <script type="text/javascript" id="xoo-el-js-js-extra">
     /* <![CDATA[ */
     var xoo_el_localize = {
-        "adminurl": "https:\/\/themerchlist.com\/wp-admin\/admin-ajax.php",
+        "adminurl": "https:\/\/aanvio.com\/wp-admin\/admin-ajax.php",
         "redirectDelay": "300",
         "html": {
             "spinner": "<i class=\"xoo-el-icon-spinner8 xoo-el-spinner\"><\/i>",
@@ -7013,7 +7013,7 @@
         "gateway_cashback": "no",
         "enable_gateway_cashback": "no",
         "gateway_nonce": "ff40e1ab1b",
-        "ajaxurl": "https:\/\/themerchlist.com\/wp-admin\/admin-ajax.php",
+        "ajaxurl": "https:\/\/aanvio.com\/wp-admin\/admin-ajax.php",
         "applied_message": "Cashback Applied Successfully",
         "removed_message": "Cashback Removed Successfully"
     };
@@ -7026,7 +7026,7 @@
     <script type="text/javascript" id="awdr-main-js-extra">
     /* <![CDATA[ */
     var awdr_params = {
-        "ajaxurl": "https:\/\/themerchlist.com\/wp-admin\/admin-ajax.php",
+        "ajaxurl": "https:\/\/aanvio.com\/wp-admin\/admin-ajax.php",
         "nonce": "7b0f39ea3b",
         "enable_update_price_with_qty": "show_when_matched",
         "refresh_order_review": "0",
@@ -7076,13 +7076,13 @@
     /* <![CDATA[ */
     var salesking_display_settings = {
         "security": "201ef89668",
-        "ajaxurl": "https:\/\/themerchlist.com\/wp-admin\/admin-ajax.php",
-        "carturl": "https:\/\/themerchlist.com\/cart\/",
+        "ajaxurl": "https:\/\/aanvio.com\/wp-admin\/admin-ajax.php",
+        "carturl": "https:\/\/aanvio.com\/cart\/",
         "currency_symbol": "\u20b9",
-        "dashboardurl": "https:\/\/themerchlist.com\/agent-dashboard\/",
-        "customersurl": "https:\/\/themerchlist.com\/agent-dashboard\/customers",
-        "announcementsurl": "https:\/\/themerchlist.com\/agent-dashboard\/announcements",
-        "favicon": "https:\/\/themerchlist.com\/wp-content\/uploads\/2023\/10\/cropped-Merchlist-icon-logo.png",
+        "dashboardurl": "https:\/\/aanvio.com\/agent-dashboard\/",
+        "customersurl": "https:\/\/aanvio.com\/agent-dashboard\/customers",
+        "announcementsurl": "https:\/\/aanvio.com\/agent-dashboard\/announcements",
+        "favicon": "https:\/\/aanvio.com\/wp-content\/uploads\/2023\/10\/cropped-Aanvio-icon-logo.png",
         "ischeckout": ""
     };
     /* ]]> */
@@ -7179,7 +7179,7 @@
         "usesTrailingSlash": "1",
         "imageExt": "jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php",
         "fileExt": "jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm",
-        "siteUrl": "https:\/\/themerchlist.com",
+        "siteUrl": "https:\/\/aanvio.com",
         "onHoverDelay": "100",
         "rateThrottle": "3"
     };
@@ -7405,7 +7405,7 @@
             "lifetime": 1.0e-5,
             "session": 30,
             "base64": false,
-            "ajaxurl": "https:\/\/themerchlist.com\/wp-admin\/admin-ajax.php",
+            "ajaxurl": "https:\/\/aanvio.com\/wp-admin\/admin-ajax.php",
             "prefix": "wc_order_attribution_",
             "allowTracking": true
         },
@@ -7435,13 +7435,13 @@
     <script type="text/javascript" id="yay-currency-callback-js-extra">
     /* <![CDATA[ */
     var yay_callback_data = {
-        "admin_url": "https:\/\/themerchlist.com\/wp-admin\/admin.php?page=wc-settings",
-        "ajaxurl": "https:\/\/themerchlist.com\/wp-admin\/admin-ajax.php",
+        "admin_url": "https:\/\/aanvio.com\/wp-admin\/admin.php?page=wc-settings",
+        "ajaxurl": "https:\/\/aanvio.com\/wp-admin\/admin-ajax.php",
         "nonce": "bc713f0074",
         "isShowOnMenu": "0",
         "isPolylangCompatible": "0",
         "isDisplayFlagInSwitcher": "0",
-        "yayCurrencyPluginURL": "https:\/\/themerchlist.com\/wp-content\/plugins\/yaycurrency-pro\/",
+        "yayCurrencyPluginURL": "https:\/\/aanvio.com\/wp-content\/plugins\/yaycurrency-pro\/",
         "converted_currency": [{
             "ID": 118858,
             "currency": "AED",
@@ -7811,13 +7811,13 @@
     <script type="text/javascript" id="yay-currency-frontend-script-js-extra">
     /* <![CDATA[ */
     var yayCurrency = {
-        "admin_url": "https:\/\/themerchlist.com\/wp-admin\/admin.php?page=wc-settings",
-        "ajaxurl": "https:\/\/themerchlist.com\/wp-admin\/admin-ajax.php",
+        "admin_url": "https:\/\/aanvio.com\/wp-admin\/admin.php?page=wc-settings",
+        "ajaxurl": "https:\/\/aanvio.com\/wp-admin\/admin-ajax.php",
         "nonce": "bc713f0074",
         "isShowOnMenu": "0",
         "isPolylangCompatible": "0",
         "isDisplayFlagInSwitcher": "0",
-        "yayCurrencyPluginURL": "https:\/\/themerchlist.com\/wp-content\/plugins\/yaycurrency-pro\/",
+        "yayCurrencyPluginURL": "https:\/\/aanvio.com\/wp-content\/plugins\/yaycurrency-pro\/",
         "converted_currency": [{
             "ID": 118858,
             "currency": "AED",
@@ -8188,10 +8188,10 @@
     <script type="text/javascript" id="yay-currency-caching-script-js-extra">
     /* <![CDATA[ */
     var yay_currency_caching_data = {
-        "ajax_url": "https:\/\/themerchlist.com\/wp-admin\/admin-ajax.php",
+        "ajax_url": "https:\/\/aanvio.com\/wp-admin\/admin-ajax.php",
         "nonce": "8e286c2d6e",
         "is_switch_currency": "no",
-        "yay_currency_current_url": "https:\/\/themerchlist.com",
+        "yay_currency_current_url": "https:\/\/aanvio.com",
         "gtranslate_active": "yes"
     };
     /* ]]> */
@@ -8308,9 +8308,9 @@
             "e_pro_variables": true
         },
         "urls": {
-            "assets": "https:\/\/themerchlist.com\/wp-content\/plugins\/elementor\/assets\/",
-            "ajaxurl": "https:\/\/themerchlist.com\/wp-admin\/admin-ajax.php",
-            "uploadUrl": "https:\/\/themerchlist.com\/wp-content\/uploads"
+            "assets": "https:\/\/aanvio.com\/wp-content\/plugins\/elementor\/assets\/",
+            "ajaxurl": "https:\/\/aanvio.com\/wp-admin\/admin-ajax.php",
+            "uploadUrl": "https:\/\/aanvio.com\/wp-content\/uploads"
         },
         "nonces": {
             "floatingButtonsClickTracking": "1ed0528dd8"
@@ -8334,7 +8334,7 @@
         },
         "post": {
             "id": 31157,
-            "title": "Merchlist%20-%20Custom%20T%20shirts%2C%20Gifts%E2%80%8B%2C%20Merch%20And%20Promotional%20Products",
+            "title": "Aanvio%20-%20Custom%20T%20shirts%2C%20Gifts%E2%80%8B%2C%20Merch%20And%20Promotional%20Products",
             "excerpt": "",
             "featuredImage": false
         }
@@ -8362,7 +8362,7 @@
     /* ]]> */
     </script>
     <script src="cdn.gtranslate.net/widgets/latest/ln.js" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/"
-        data-gt-orig-domain="themerchlist.com" data-gt-widget-id="79644829" defer=""></script>
+        data-gt-orig-domain="aanvio.com" data-gt-widget-id="79644829" defer=""></script>
     <script type="text/javascript" id="jquery-dgwt-wcas-js-extra">
     /* <![CDATA[ */
     var dgwt_wcas = {
@@ -8394,7 +8394,7 @@
             "tax_product_tag_plu": "Tags",
             "tax_product_tag": "Tag"
         },
-        "ajax_search_endpoint": "https:\/\/themerchlist.com\/wp-content\/plugins\/ajax-search-for-woocommerce-premium\/includes\/Engines\/TNTSearchMySQL\/Endpoints\/search.php",
+        "ajax_search_endpoint": "https:\/\/aanvio.com\/wp-content\/plugins\/ajax-search-for-woocommerce-premium\/includes\/Engines\/TNTSearchMySQL\/Endpoints\/search.php",
         "ajax_details_endpoint": "\/?wc-ajax=dgwt_wcas_result_details",
         "ajax_prices_endpoint": "\/?wc-ajax=dgwt_wcas_get_prices",
         "action_search": "dgwt_wcas_ajax_search",
@@ -8414,7 +8414,7 @@
         "show_headings": "1",
         "preloader_url": "",
         "taxonomy_brands": "",
-        "img_url": "https:\/\/themerchlist.com\/wp-content\/plugins\/ajax-search-for-woocommerce-premium\/assets\/img\/",
+        "img_url": "https:\/\/aanvio.com\/wp-content\/plugins\/ajax-search-for-woocommerce-premium\/assets\/img\/",
         "is_premium": "1",
         "layout_breakpoint": "992",
         "mobile_overlay_breakpoint": "800",
@@ -8479,11 +8479,11 @@
     <script type="text/javascript" id="elementor-pro-frontend-js-before">
     /* <![CDATA[ */
     var ElementorProFrontendConfig = {
-        "ajaxurl": "https:\/\/themerchlist.com\/wp-admin\/admin-ajax.php",
+        "ajaxurl": "https:\/\/aanvio.com\/wp-admin\/admin-ajax.php",
         "nonce": "a10735c843",
         "urls": {
-            "assets": "https:\/\/themerchlist.com\/wp-content\/plugins\/elementor-pro\/assets\/",
-            "rest": "https:\/\/themerchlist.com\/wp-json\/"
+            "assets": "https:\/\/aanvio.com\/wp-content\/plugins\/elementor-pro\/assets\/",
+            "rest": "https:\/\/aanvio.com\/wp-json\/"
         },
         "settings": {
             "lazy_load_background_images": false
@@ -8564,8 +8564,8 @@
         },
         "woocommerce": {
             "menu_cart": {
-                "cart_page_url": "https:\/\/themerchlist.com\/cart\/",
-                "checkout_page_url": "https:\/\/themerchlist.com\/checkout\/",
+                "cart_page_url": "https:\/\/aanvio.com\/cart\/",
+                "checkout_page_url": "https:\/\/aanvio.com\/checkout\/",
                 "fragments_nonce": "97187eb5b1"
             }
         },
@@ -8574,7 +8574,7 @@
             "app_id": ""
         },
         "lottie": {
-            "defaultAnimationUrl": "https:\/\/themerchlist.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"
+            "defaultAnimationUrl": "https:\/\/aanvio.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"
         }
     };
     /* ]]> */
@@ -8599,7 +8599,7 @@
     /* ]]> */
     </script>
     <script src="cdn.gtranslate.net/widgets/latest/ln.js" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/"
-        data-gt-orig-domain="themerchlist.com" data-gt-widget-id="64623491" defer=""></script>
+        data-gt-orig-domain="aanvio.com" data-gt-widget-id="64623491" defer=""></script>
     <script type="text/javascript">
     (function(undefined) {
         let scriptOptions = {
@@ -9189,7 +9189,7 @@
                                             <div class="needsclick  kl-private-reset-css-Xuajs1"
                                                 style="width: 100%; height: 100%; position: relative;"><img
                                                     src="d3k81ch9hvuctc.cloudfront.net/company/syvdkp/images/18dbcf9e_8dc5_41cc_a80f_e750c7de6eb3.jpeg"
-                                                    alt="Custom Merch 20% Off with Merchlist"
+                                                    alt="Custom Merch 20% Off with Aanvio"
                                                     class="needsclick  kl-private-reset-css-Xuajs1"
                                                     style="width: 100%; height: 100%; object-fit: cover; object-position: center center;">
                                             </div>

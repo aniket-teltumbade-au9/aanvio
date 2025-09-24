@@ -39,13 +39,13 @@
                                     <div class="yay-currency-shortcode-switcher">
                                         <div class="yay-currency-single-page-switcher">
 
-                                            <form action-xhr="https://themerchlist.com" method="POST"
+                                            <form action-xhr="https://aanvio.com" method="POST"
                                                 class="yay-currency-form-switcher">
                                                 <input type="hidden" class="yay-currency-nonce"
                                                     name="yay-currency-nonce" value="734242fc3c"><input type="hidden"
                                                     name="_wp_http_referer" value="/wp-admin/admin-ajax.php"><input
                                                     type="hidden" name="yay_currency_current_url"
-                                                    value="https://themerchlist.com"> <select
+                                                    value="https://aanvio.com"> <select
                                                     class="yay-currency-switcher" name="yay_currency"
                                                     onchange="this.form.submit()">
                                                     <option value="118858"></option>
@@ -298,7 +298,7 @@
                                             class="no-lazy custom-logo-link" rel="home" itemprop="url"><img width="920"
                                                 height="161" src="wp_content/uploads/2023/08/aanvio_logo_white.webp"
                                                 data-no-lazy="1" data-skip-lazy="1" class="no-lazy custom-logo"
-                                                alt="Merchlist" loading="eager" decoding="async"
+                                                alt="Aanvio" loading="eager" decoding="async"
                                                 srcset="<?php echo BASE_URL; ?>wp_content/uploads/2023/08/aanvio_logo_white.webp 920w, <?php echo BASE_URL; ?>wp_content/uploads/2023/08/Aanvio_Logo-white-300x53.webp 300w, <?php echo BASE_URL; ?>wp_content/uploads/2023/08/Aanvio_Logo-white-768x134.webp 768w"
                                                 sizes="(max-width: 920px) 100vw, 920px"><img width="920" height="161"
                                                 src="wp_content/uploads/2023/08/aanvio_logo_white.webp" data-no-lazy="1"
@@ -631,13 +631,13 @@
                                     <div class="yay-currency-shortcode-switcher">
                                         <div class="yay-currency-single-page-switcher">
 
-                                            <form action-xhr="https://themerchlist.com" method="POST"
+                                            <form action-xhr="https://aanvio.com" method="POST"
                                                 class="yay-currency-form-switcher">
                                                 <input type="hidden" class="yay-currency-nonce"
                                                     name="yay-currency-nonce" value="734242fc3c"><input type="hidden"
                                                     name="_wp_http_referer" value="/wp-admin/admin-ajax.php"><input
                                                     type="hidden" name="yay_currency_current_url"
-                                                    value="https://themerchlist.com"> <select
+                                                    value="https://aanvio.com"> <select
                                                     class="yay-currency-switcher" name="yay_currency"
                                                     onchange="this.form.submit()">
                                                     <option value="118858"></option>
@@ -835,7 +835,7 @@
                                             class="no-lazy custom-logo-link" rel="home" itemprop="url"><img width="920"
                                                 height="161" src="wp_content/uploads/2023/08/aanvio_logo_white.webp"
                                                 data-no-lazy="1" data-skip-lazy="1" class="no-lazy custom-logo"
-                                                alt="Merchlist" loading="eager" decoding="async"
+                                                alt="Aanvio" loading="eager" decoding="async"
                                                 srcset="<?php echo BASE_URL; ?>wp_content/uploads/2023/08/aanvio_logo_white.webp 920w, <?php echo BASE_URL; ?>wp_content/uploads/2023/08/Aanvio_Logo-white-300x53.webp 300w, <?php echo BASE_URL; ?>wp_content/uploads/2023/08/Aanvio_Logo-white-768x134.webp 768w"
                                                 sizes="(max-width: 920px) 100vw, 920px"><img width="920" height="161"
                                                 src="wp_content/uploads/2023/08/aanvio_logo_white.webp" data-no-lazy="1"

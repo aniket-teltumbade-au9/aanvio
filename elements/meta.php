@@ -52,24 +52,24 @@ include "./config/index.php";
 
 
 
-    <title>Merchlist - Custom T shirts, Gifts​, Merch And Promotional Products</title>
+    <title>Aanvio - Custom T shirts, Gifts​, Merch And Promotional Products</title>
     <meta name="description"
-        content="Custom T shirts, Hoodies, Corporate Gifts, Uniforms, Drinkware, Bags, Customized Gifts and 1000+ Promotional Products For Printing with&nbsp;Merchlist.">
+        content="Custom T shirts, Hoodies, Corporate Gifts, Uniforms, Drinkware, Bags, Customized Gifts and 1000+ Promotional Products For Printing with&nbsp;Aanvio.">
     <link rel="canonical" href="<?php echo BASE_URL; ?>">
     <meta property="og:locale" content="en_GB">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Merchlist - Custom T shirts, Merch And Promotional Products">
+    <meta property="og:title" content="Aanvio - Custom T shirts, Merch And Promotional Products">
     <meta property="og:description"
-        content="Create Custom T shirts, Hoodies, Corporate Gifts, Uniforms, Drinkware, Bags, Accessories and 500+ Promotional Products with Merchlist">
+        content="Create Custom T shirts, Hoodies, Corporate Gifts, Uniforms, Drinkware, Bags, Accessories and 500+ Promotional Products with Aanvio">
     <meta property="og:url" content="<?php echo BASE_URL; ?>">
-    <meta property="og:site_name" content="Merchlist">
-    <meta property="article:publisher" content="https://www.facebook.com/themerchlist/">
+    <meta property="og:site_name" content="Aanvio">
+    <meta property="article:publisher" content="https://www.facebook.com/aanvio/">
     <meta property="article:modified_time" content="2025-08-29T08:19:10+00:00">
     <meta property="og:image" content="<?php echo BASE_URL; ?>wp-content/uploads/2023/08/6-1.webp">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Merchlist - Custom T shirts, Merch And Promotional Products">
+    <meta name="twitter:title" content="Aanvio - Custom T shirts, Merch And Promotional Products">
     <meta name="twitter:description"
-        content="Create Custom T shirts, Hoodies, Corporate Gifts, Uniforms, Drinkware, Bags, Accessories and 500+ Promotional Products with Merchlist">
+        content="Create Custom T shirts, Hoodies, Corporate Gifts, Uniforms, Drinkware, Bags, Accessories and 500+ Promotional Products with Aanvio">
     <script type="application/ld+json" class="yoast-schema-graph">
     {
         "@context": "https://schema.org",
@@ -77,7 +77,7 @@ include "./config/index.php";
             "@type": "WebPage",
             "@id": "<?php echo BASE_URL; ?>",
             "url": "<?php echo BASE_URL; ?>",
-            "name": "Merchlist - Custom T shirts, Gifts​, Merch And Promotional Products",
+            "name": "Aanvio - Custom T shirts, Gifts​, Merch And Promotional Products",
             "isPartOf": {
                 "@id": "<?php echo BASE_URL; ?>#website"
             },
@@ -116,13 +116,13 @@ include "./config/index.php";
             "itemListElement": [{
                 "@type": "ListItem",
                 "position": 1,
-                "name": "Merchlist"
+                "name": "Aanvio"
             }]
         }, {
             "@type": "WebSite",
             "@id": "<?php echo BASE_URL; ?>#website",
             "url": "<?php echo BASE_URL; ?>",
-            "name": "Merchlist",
+            "name": "Aanvio",
             "description": "Custom T-shirts, Merch, and Promotional Products",
             "publisher": {
                 "@id": "<?php echo BASE_URL; ?>#organization"
@@ -143,7 +143,7 @@ include "./config/index.php";
         }, {
             "@type": ["Organization", "Place"],
             "@id": "<?php echo BASE_URL; ?>#organization",
-            "name": "Merchlist",
+            "name": "Aanvio",
             "url": "<?php echo BASE_URL; ?>",
             "logo": {
                 "@id": "<?php echo BASE_URL; ?>#local-main-organization-logo"
@@ -151,12 +151,12 @@ include "./config/index.php";
             "image": {
                 "@id": "<?php echo BASE_URL; ?>#local-main-organization-logo"
             },
-            "sameAs": ["https://www.facebook.com/themerchlist/", "https://www.linkedin.com/company/merchlist",
-                "https://www.instagram.com/themerchlist/", "https://www.youtube.com/@themerchlist",
-                "https://www.tiktok.com/@themerchlist"
+            "sameAs": ["https://www.facebook.com/aanvio/", "https://www.linkedin.com/company/aanvio",
+                "https://www.instagram.com/aanvio/", "https://www.youtube.com/@aanvio",
+                "https://www.tiktok.com/@aanvio"
             ],
-            "description": "Merchlist is the leading provider of custom-branded merchandise, uniforms, promotional products and corporate gifts in the UAE, Saudi Arabia and Rest of GCC. Our online platform offers businesses a convenient way to create and order personalized products such as T-shirts, hats, tote bags, and other promotional items. With our easy-to-use design tools, businesses can create customized designs that showcase their brand and make a lasting impression on customers and employees. At Merchlist, we understand the importance of quality, affordability, and timely delivery. That's why we use only the highest quality materials and offer competitive pricing and fast shipping.",
-            "legalName": "Merchlist FZ LLC",
+            "description": "Aanvio is the leading provider of custom-branded merchandise, uniforms, promotional products and corporate gifts in the UAE, Saudi Arabia and Rest of GCC. Our online platform offers businesses a convenient way to create and order personalized products such as T-shirts, hats, tote bags, and other promotional items. With our easy-to-use design tools, businesses can create customized designs that showcase their brand and make a lasting impression on customers and employees. At Aanvio, we understand the importance of quality, affordability, and timely delivery. That's why we use only the highest quality materials and offer competitive pricing and fast shipping.",
+            "legalName": "Aanvio FZ LLC",
             "foundingDate": "1995-01-08",
             "numberOfEmployees": {
                 "@type": "QuantitativeValue",
@@ -182,7 +182,7 @@ include "./config/index.php";
             "contactPoint": {
                 "@type": "ContactPoint",
                 "telephone": "+971582242212",
-                "email": "team@themerchlist.com"
+                "email": "team@aanvio.com"
             },
             "openingHoursSpecification": {
                 "@type": "OpeningHoursSpecification",
@@ -190,7 +190,7 @@ include "./config/index.php";
                 "opens": "00:00",
                 "closes": "23:59"
             },
-            "email": "team@themerchlist.com",
+            "email": "team@aanvio.com",
             "areaServed": "United Arab Emirates, Saudi Arabia, Qatar, Bahrain, Oman, United Kingdom, United States of America",
             "vatID": "104167073600003",
             "taxID": "104167073600003",
@@ -207,11 +207,11 @@ include "./config/index.php";
             "@type": "ImageObject",
             "inLanguage": "en-GB",
             "@id": "<?php echo BASE_URL; ?>#local-main-organization-logo",
-            "url": "<?php echo BASE_URL; ?>wp-content/uploads/2023/10/cropped-Merchlist-icon-logo.png",
-            "contentUrl": "<?php echo BASE_URL; ?>wp-content/uploads/2023/10/cropped-Merchlist-icon-logo.png",
+            "url": "<?php echo BASE_URL; ?>wp-content/uploads/2023/10/cropped-Aanvio-icon-logo.png",
+            "contentUrl": "<?php echo BASE_URL; ?>wp-content/uploads/2023/10/cropped-Aanvio-icon-logo.png",
             "width": 512,
             "height": 512,
-            "caption": "Merchlist"
+            "caption": "Aanvio"
         }]
     }
     </script>
@@ -525,7 +525,7 @@ include "./config/index.php";
     <script type="text/javascript" id="xoo-aff-js-js-extra">
     /* <![CDATA[ */
     var xoo_aff_localize = {
-        "adminurl": "https:\/\/themerchlist.com\/wp-admin\/admin-ajax.php",
+        "adminurl": "https:\/\/aanvio.com\/wp-admin\/admin-ajax.php",
         "password_strength": {
             "min_password_strength": 3,
             "i18n_password_error": "Please enter a stronger password.",
@@ -621,10 +621,10 @@ include "./config/index.php";
         "shipping_cashback": "no",
         "is_checkout": "",
         "is_user_logged_in": "",
-        "current_page_url": "https:\/\/themerchlist.com\/",
+        "current_page_url": "https:\/\/aanvio.com\/",
         "is_renewal_order": "1",
         "is_valid_order_rule": "",
-        "ajaxurl": "https:\/\/themerchlist.com\/wp-admin\/admin-ajax.php",
+        "ajaxurl": "https:\/\/aanvio.com\/wp-admin\/admin-ajax.php",
         "enable_gateway_cashback": "no"
     };
     /* ]]> */
@@ -637,7 +637,7 @@ include "./config/index.php";
     /* <![CDATA[ */
     var cbk_lightcase_params = {
         "eligible_products_nonce": "94758b9fc4",
-        "ajaxurl": "https:\/\/themerchlist.com\/wp-admin\/admin-ajax.php"
+        "ajaxurl": "https:\/\/aanvio.com\/wp-admin\/admin-ajax.php"
     };
     /* ]]> */
     </script>
@@ -651,7 +651,7 @@ include "./config/index.php";
         "ajax_url": "\/wp-admin\/admin-ajax.php",
         "wc_ajax_url": "\/?wc-ajax=%%endpoint%%",
         "i18n_view_cart": "View basket",
-        "cart_url": "https:\/\/themerchlist.com\/cart\/",
+        "cart_url": "https:\/\/aanvio.com\/cart\/",
         "is_cart": "",
         "cart_redirect_after_add": "",
         "gt_translate_keys": ["i18n_view_cart", {
@@ -680,8 +680,8 @@ include "./config/index.php";
     <script type="text/javascript" id="wt-smart-coupon-for-woo-js-extra">
     /* <![CDATA[ */
     var WTSmartCouponOBJ = {
-        "ajaxurl": "https:\/\/themerchlist.com\/wp-admin\/admin-ajax.php",
-        "wc_ajax_url": "https:\/\/themerchlist.com\/?wc-ajax=",
+        "ajaxurl": "https:\/\/aanvio.com\/wp-admin\/admin-ajax.php",
+        "wc_ajax_url": "https:\/\/aanvio.com\/?wc-ajax=",
         "nonces": {
             "public": "38f206ae1f",
             "apply_coupon": "5616626653"
@@ -1092,14 +1092,14 @@ include "./config/index.php";
         src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Bold-1.woff2') format('woff2');
     }
     </style>
-    <link rel="icon" href="<?php echo BASE_URL; ?>wp-content/uploads/2023/10/cropped-Merchlist-icon-logo-32x32.png"
+    <link rel="icon" href="<?php echo BASE_URL; ?>wp-content/uploads/2023/10/cropped-Aanvio-icon-logo-32x32.png"
         sizes="32x32">
-    <link rel="icon" href="<?php echo BASE_URL; ?>wp-content/uploads/2023/10/cropped-Merchlist-icon-logo-192x192.png"
+    <link rel="icon" href="<?php echo BASE_URL; ?>wp-content/uploads/2023/10/cropped-Aanvio-icon-logo-192x192.png"
         sizes="192x192">
     <link rel="apple-touch-icon"
-        href="<?php echo BASE_URL; ?>wp-content/uploads/2023/10/cropped-Merchlist-icon-logo-180x180.png">
+        href="<?php echo BASE_URL; ?>wp-content/uploads/2023/10/cropped-Aanvio-icon-logo-180x180.png">
     <meta name="msapplication-TileImage"
-        content="<?php echo BASE_URL; ?>wp-content/uploads/2023/10/cropped-Merchlist-icon-logo-270x270.png">
+        content="<?php echo BASE_URL; ?>wp-content/uploads/2023/10/cropped-Aanvio-icon-logo-270x270.png">
     <style type="text/css">
     div.nsl-container[data-align="left"] {
         text-align: left;
@@ -3177,13 +3177,13 @@ padding: 1em;
         font-weight: 600;
     }
 
-    .Merchlist-promise h3.elementor-icon-box-title {
+    .Aanvio-promise h3.elementor-icon-box-title {
         font-weight: 700;
         font-size: 17px;
         margin-bottom: 5px;
     }
 
-    .Merchlist-promise p.elementor-icon-box-description {
+    .Aanvio-promise p.elementor-icon-box-description {
         font-size: 14px;
     }
 
@@ -4830,7 +4830,7 @@ padding: 1em;
         filter: grayscale(100%);
     }
 
-    /*why choose merchlist icons*/
+    /*why choose aanvio icons*/
     .benefits .elementor-image-box-img img {
         width: auto;
         height: 90px;
@@ -5414,7 +5414,7 @@ padding: 1em;
 
 
 
-    /************  Merchlist My Account → Orders (Modern UI)  ************/
+    /************  Aanvio My Account → Orders (Modern UI)  ************/
     :root {
         --ml-bg: #f6f7f9;
         --ml-card: #ffffff;
