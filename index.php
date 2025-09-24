@@ -1215,7 +1215,7 @@
                                                                             src="wp_content/uploads/2023/08/6_1.webp"
                                                                             class="attachment-full size-full wp-image-48607"
                                                                             alt=""
-                                                                            srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/08/6-1.webp 600w, <?php echo BASE_URL; ?>wp-content/uploads/2023/08/6-1-300x250.webp 300w"
+                                                                            srcset="https://themerchlist.com/wp-content/uploads/2023/08/6-1.webp 600w, https://themerchlist.com/wp-content/uploads/2023/08/6-1-300x250.webp 300w"
                                                                             sizes="(max-width: 600px) 100vw, 600px"></a>
                                                                 </figure>
                                                                 <div class="elementor-image-box-content">
@@ -1260,7 +1260,7 @@
                                                                             src="wp_content/uploads/2023/08/5.webp"
                                                                             class="attachment-full size-full wp-image-48203"
                                                                             alt=""
-                                                                            srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/08/5.webp 600w, <?php echo BASE_URL; ?>wp-content/uploads/2023/08/5-300x250.webp 300w"
+                                                                            srcset="https://themerchlist.com/wp-content/uploads/2023/08/5.webp 600w, https://themerchlist.com/wp-content/uploads/2023/08/5-300x250.webp 300w"
                                                                             sizes="(max-width: 600px) 100vw, 600px"></a>
                                                                 </figure>
                                                                 <div class="elementor-image-box-content">
@@ -1311,7 +1311,7 @@
                                                                             src="wp_content/uploads/2023/08/jerseys.webp"
                                                                             class="attachment-full size-full wp-image-48213"
                                                                             alt="Jerseys &amp; Sublimation"
-                                                                            srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/08/Jerseys.webp 600w, <?php echo BASE_URL; ?>wp-content/uploads/2023/08/Jerseys-300x250.webp 300w"
+                                                                            srcset="https://themerchlist.com/wp-content/uploads/2023/08/Jerseys.webp 600w, https://themerchlist.com/wp-content/uploads/2023/08/Jerseys-300x250.webp 300w"
                                                                             sizes="(max-width: 600px) 100vw, 600px"></a>
                                                                 </figure>
                                                                 <div class="elementor-image-box-content">
@@ -1356,7 +1356,7 @@
                                                                             src="wp_content/uploads/2023/08/uniforms.webp"
                                                                             class="attachment-full size-full wp-image-48223"
                                                                             alt="uniforms"
-                                                                            srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/08/uniforms.webp 600w, <?php echo BASE_URL; ?>wp-content/uploads/2023/08/uniforms-300x250.webp 300w"
+                                                                            srcset="https://themerchlist.com/wp-content/uploads/2023/08/uniforms.webp 600w, https://themerchlist.com/wp-content/uploads/2023/08/uniforms-300x250.webp 300w"
                                                                             sizes="(max-width: 600px) 100vw, 600px"></a>
                                                                 </figure>
                                                                 <div class="elementor-image-box-content">
@@ -1407,7 +1407,7 @@
                                                                     src="wp_content/uploads/2023/08/6_2.webp"
                                                                     class="attachment-large size-large wp-image-49200"
                                                                     alt=""
-                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/08/6-2.webp 600w, <?php echo BASE_URL; ?>wp-content/uploads/2023/08/6-2-300x215.webp 300w"
+                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/08/6-2.webp 600w, https://themerchlist.com/wp-content/uploads/2023/08/6-2-300x215.webp 300w"
                                                                     sizes="(max-width: 600px) 100vw, 600px"> </a>
                                                         </div>
                                                     </div>
@@ -1478,7 +1478,7 @@
                                                                     src="wp_content/uploads/2023/08/10.webp"
                                                                     class="attachment-large size-large wp-image-49207"
                                                                     alt=""
-                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/08/10.webp 600w, <?php echo BASE_URL; ?>wp-content/uploads/2023/08/10-300x215.webp 300w"
+                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/08/10.webp 600w, https://themerchlist.com/wp-content/uploads/2023/08/10-300x215.webp 300w"
                                                                     sizes="(max-width: 600px) 100vw, 600px"> </a>
                                                         </div>
                                                     </div>
@@ -1549,7 +1549,7 @@
                                                                     src="wp_content/uploads/2023/08/5_1.webp"
                                                                     class="attachment-large size-large wp-image-49208"
                                                                     alt=""
-                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/08/5-1.webp 600w, <?php echo BASE_URL; ?>wp-content/uploads/2023/08/5-1-300x215.webp 300w"
+                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/08/5-1.webp 600w, https://themerchlist.com/wp-content/uploads/2023/08/5-1-300x215.webp 300w"
                                                                     sizes="(max-width: 600px) 100vw, 600px"> </a>
                                                         </div>
                                                     </div>
@@ -1620,7 +1620,7 @@
                                                                     src="wp_content/uploads/2023/08/4_1.webp"
                                                                     class="attachment-large size-large wp-image-49209"
                                                                     alt=""
-                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/08/4-1.webp 600w, <?php echo BASE_URL; ?>wp-content/uploads/2023/08/4-1-300x215.webp 300w"
+                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/08/4-1.webp 600w, https://themerchlist.com/wp-content/uploads/2023/08/4-1-300x215.webp 300w"
                                                                     sizes="(max-width: 600px) 100vw, 600px"> </a>
                                                         </div>
                                                     </div>
@@ -1691,7 +1691,7 @@
                                                                     src="wp_content/uploads/2023/08/caps_and_hats_1.webp"
                                                                     class="attachment-large size-large wp-image-49050"
                                                                     alt="cap and hats printing"
-                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/08/caps-and-hats-1.webp 600w, <?php echo BASE_URL; ?>wp-content/uploads/2023/08/caps-and-hats-1-300x215.webp 300w"
+                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/08/caps-and-hats-1.webp 600w, https://themerchlist.com/wp-content/uploads/2023/08/caps-and-hats-1-300x215.webp 300w"
                                                                     sizes="(max-width: 600px) 100vw, 600px"> </a>
                                                         </div>
                                                     </div>
@@ -1768,11 +1768,11 @@
                                                                 <picture decoding="async"
                                                                     class="attachment-large size-large wp-image-75003">
                                                                     <source type="image/avif"
-                                                                        srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/4-23.png.avif 500w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/4-23-300x210.png.avif 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/4-23-64x45.png.avif 64w"
+                                                                        srcset="https://themerchlist.com/wp-content/uploads/2024/04/4-23.png.avif 500w, https://themerchlist.com/wp-content/uploads/2024/04/4-23-300x210.png.avif 300w, https://themerchlist.com/wp-content/uploads/2024/04/4-23-64x45.png.avif 64w"
                                                                         sizes="(max-width: 500px) 100vw, 500px">
                                                                     <img decoding="async" width="500" height="350"
                                                                         src="wp_content/uploads/2024/04/4_23.png" alt=""
-                                                                        srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/4-23.png 500w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/4-23-300x210.png 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/4-23-64x45.png 64w"
+                                                                        srcset="https://themerchlist.com/wp-content/uploads/2024/04/4-23.png 500w, https://themerchlist.com/wp-content/uploads/2024/04/4-23-300x210.png 300w, https://themerchlist.com/wp-content/uploads/2024/04/4-23-64x45.png 64w"
                                                                         sizes="(max-width: 500px) 100vw, 500px">
                                                                 </picture>
                                                             </a>
@@ -1844,12 +1844,12 @@
                                                                 <picture decoding="async"
                                                                     class="attachment-large size-large wp-image-191085">
                                                                     <source type="image/avif"
-                                                                        srcset="<?php echo BASE_URL; ?>wp-content/uploads/2025/08/tech-mobile-2-1-1024x734.png.avif 1024w, <?php echo BASE_URL; ?>wp-content/uploads/2025/08/tech-mobile-2-1-300x215.png.avif 300w, <?php echo BASE_URL; ?>wp-content/uploads/2025/08/tech-mobile-2-1-768x550.png.avif 768w, <?php echo BASE_URL; ?>wp-content/uploads/2025/08/tech-mobile-2-1-64x46.png.avif 64w, <?php echo BASE_URL; ?>wp-content/uploads/2025/08/tech-mobile-2-1-480x344.png.avif 480w, <?php echo BASE_URL; ?>wp-content/uploads/2025/08/tech-mobile-2-1-240x172.png.avif 240w, <?php echo BASE_URL; ?>wp-content/uploads/2025/08/tech-mobile-2-1.png.avif 1200w"
+                                                                        srcset="https://themerchlist.com/wp-content/uploads/2025/08/tech-mobile-2-1-1024x734.png.avif 1024w, https://themerchlist.com/wp-content/uploads/2025/08/tech-mobile-2-1-300x215.png.avif 300w, https://themerchlist.com/wp-content/uploads/2025/08/tech-mobile-2-1-768x550.png.avif 768w, https://themerchlist.com/wp-content/uploads/2025/08/tech-mobile-2-1-64x46.png.avif 64w, https://themerchlist.com/wp-content/uploads/2025/08/tech-mobile-2-1-480x344.png.avif 480w, https://themerchlist.com/wp-content/uploads/2025/08/tech-mobile-2-1-240x172.png.avif 240w, https://themerchlist.com/wp-content/uploads/2025/08/tech-mobile-2-1.png.avif 1200w"
                                                                         sizes="(max-width: 1024px) 100vw, 1024px">
                                                                     <img decoding="async" width="1024" height="734"
                                                                         src="wp_content/uploads/2025/08/tech_mobile_2_1_1024x734.png"
                                                                         alt=""
-                                                                        srcset="<?php echo BASE_URL; ?>wp-content/uploads/2025/08/tech-mobile-2-1-1024x734.png 1024w, <?php echo BASE_URL; ?>wp-content/uploads/2025/08/tech-mobile-2-1-300x215.png 300w, <?php echo BASE_URL; ?>wp-content/uploads/2025/08/tech-mobile-2-1-768x550.png 768w, <?php echo BASE_URL; ?>wp-content/uploads/2025/08/tech-mobile-2-1-64x46.png 64w, <?php echo BASE_URL; ?>wp-content/uploads/2025/08/tech-mobile-2-1-480x344.png 480w, <?php echo BASE_URL; ?>wp-content/uploads/2025/08/tech-mobile-2-1-240x172.png 240w, <?php echo BASE_URL; ?>wp-content/uploads/2025/08/tech-mobile-2-1.png 1200w"
+                                                                        srcset="https://themerchlist.com/wp-content/uploads/2025/08/tech-mobile-2-1-1024x734.png 1024w, https://themerchlist.com/wp-content/uploads/2025/08/tech-mobile-2-1-300x215.png 300w, https://themerchlist.com/wp-content/uploads/2025/08/tech-mobile-2-1-768x550.png 768w, https://themerchlist.com/wp-content/uploads/2025/08/tech-mobile-2-1-64x46.png 64w, https://themerchlist.com/wp-content/uploads/2025/08/tech-mobile-2-1-480x344.png 480w, https://themerchlist.com/wp-content/uploads/2025/08/tech-mobile-2-1-240x172.png 240w, https://themerchlist.com/wp-content/uploads/2025/08/tech-mobile-2-1.png 1200w"
                                                                         sizes="(max-width: 1024px) 100vw, 1024px">
                                                                 </picture>
                                                             </a>
@@ -1922,7 +1922,7 @@
                                                                     src="wp_content/uploads/2023/08/bags.webp"
                                                                     class="attachment-large size-large wp-image-49051"
                                                                     alt=""
-                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/08/bags.webp 600w, <?php echo BASE_URL; ?>wp-content/uploads/2023/08/bags-300x215.webp 300w"
+                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/08/bags.webp 600w, https://themerchlist.com/wp-content/uploads/2023/08/bags-300x215.webp 300w"
                                                                     sizes="(max-width: 600px) 100vw, 600px"> </a>
                                                         </div>
                                                     </div>
@@ -1992,12 +1992,12 @@
                                                                 <picture decoding="async"
                                                                     class="attachment-full size-full wp-image-161295">
                                                                     <source type="image/avif"
-                                                                        srcset="<?php echo BASE_URL; ?>wp-content/uploads/2025/04/tech-mobile-2-1111.png.avif 1875w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/tech-mobile-2-1111-300x215.png.avif 300w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/tech-mobile-2-1111-1024x734.png.avif 1024w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/tech-mobile-2-1111-768x551.png.avif 768w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/tech-mobile-2-1111-64x46.png.avif 64w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/tech-mobile-2-1111-480x344.png.avif 480w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/tech-mobile-2-1111-240x172.png.avif 240w"
+                                                                        srcset="https://themerchlist.com/wp-content/uploads/2025/04/tech-mobile-2-1111.png.avif 1875w, https://themerchlist.com/wp-content/uploads/2025/04/tech-mobile-2-1111-300x215.png.avif 300w, https://themerchlist.com/wp-content/uploads/2025/04/tech-mobile-2-1111-1024x734.png.avif 1024w, https://themerchlist.com/wp-content/uploads/2025/04/tech-mobile-2-1111-768x551.png.avif 768w, https://themerchlist.com/wp-content/uploads/2025/04/tech-mobile-2-1111-64x46.png.avif 64w, https://themerchlist.com/wp-content/uploads/2025/04/tech-mobile-2-1111-480x344.png.avif 480w, https://themerchlist.com/wp-content/uploads/2025/04/tech-mobile-2-1111-240x172.png.avif 240w"
                                                                         sizes="(max-width: 1875px) 100vw, 1875px">
                                                                     <img decoding="async" width="1875" height="1344"
                                                                         src="wp_content/uploads/2025/04/tech_mobile_2_1111.png"
                                                                         alt=""
-                                                                        srcset="<?php echo BASE_URL; ?>wp-content/uploads/2025/04/tech-mobile-2-1111.png 1875w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/tech-mobile-2-1111-300x215.png 300w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/tech-mobile-2-1111-1024x734.png 1024w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/tech-mobile-2-1111-768x551.png 768w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/tech-mobile-2-1111-1536x1101.png 1536w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/tech-mobile-2-1111-64x46.png 64w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/tech-mobile-2-1111-480x344.png 480w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/tech-mobile-2-1111-240x172.png 240w"
+                                                                        srcset="https://themerchlist.com/wp-content/uploads/2025/04/tech-mobile-2-1111.png 1875w, https://themerchlist.com/wp-content/uploads/2025/04/tech-mobile-2-1111-300x215.png 300w, https://themerchlist.com/wp-content/uploads/2025/04/tech-mobile-2-1111-1024x734.png 1024w, https://themerchlist.com/wp-content/uploads/2025/04/tech-mobile-2-1111-768x551.png 768w, https://themerchlist.com/wp-content/uploads/2025/04/tech-mobile-2-1111-1536x1101.png 1536w, https://themerchlist.com/wp-content/uploads/2025/04/tech-mobile-2-1111-64x46.png 64w, https://themerchlist.com/wp-content/uploads/2025/04/tech-mobile-2-1111-480x344.png 480w, https://themerchlist.com/wp-content/uploads/2025/04/tech-mobile-2-1111-240x172.png 240w"
                                                                         sizes="(max-width: 1875px) 100vw, 1875px">
                                                                 </picture>
                                                             </a>
@@ -2070,7 +2070,7 @@
                                                                     src="wp_content/uploads/2023/08/11.webp"
                                                                     class="attachment-large size-large wp-image-49277"
                                                                     alt=""
-                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/08/11.webp 600w, <?php echo BASE_URL; ?>wp-content/uploads/2023/08/11-300x215.webp 300w"
+                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/08/11.webp 600w, https://themerchlist.com/wp-content/uploads/2023/08/11-300x215.webp 300w"
                                                                     sizes="(max-width: 600px) 100vw, 600px"> </a>
                                                         </div>
                                                     </div>
@@ -2147,11 +2147,11 @@
                                                                 <picture decoding="async"
                                                                     class="attachment-large size-large wp-image-75006">
                                                                     <source type="image/avif"
-                                                                        srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/6-8.png.avif 500w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/6-8-300x210.png.avif 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/6-8-64x45.png.avif 64w"
+                                                                        srcset="https://themerchlist.com/wp-content/uploads/2024/04/6-8.png.avif 500w, https://themerchlist.com/wp-content/uploads/2024/04/6-8-300x210.png.avif 300w, https://themerchlist.com/wp-content/uploads/2024/04/6-8-64x45.png.avif 64w"
                                                                         sizes="(max-width: 500px) 100vw, 500px">
                                                                     <img decoding="async" width="500" height="350"
                                                                         src="wp_content/uploads/2024/04/6_8.png" alt=""
-                                                                        srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/6-8.png 500w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/6-8-300x210.png 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/6-8-64x45.png 64w"
+                                                                        srcset="https://themerchlist.com/wp-content/uploads/2024/04/6-8.png 500w, https://themerchlist.com/wp-content/uploads/2024/04/6-8-300x210.png 300w, https://themerchlist.com/wp-content/uploads/2024/04/6-8-64x45.png 64w"
                                                                         sizes="(max-width: 500px) 100vw, 500px">
                                                                 </picture>
                                                             </a>
@@ -2224,7 +2224,7 @@
                                                                     src="wp_content/uploads/2024/04/home_and_wellnes.webp"
                                                                     class="attachment-large size-large wp-image-74919"
                                                                     alt=""
-                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/Home-and-wellnes.webp 500w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/Home-and-wellnes-300x210.webp 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/Home-and-wellnes-64x45.webp 64w"
+                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/04/Home-and-wellnes.webp 500w, https://themerchlist.com/wp-content/uploads/2024/04/Home-and-wellnes-300x210.webp 300w, https://themerchlist.com/wp-content/uploads/2024/04/Home-and-wellnes-64x45.webp 64w"
                                                                     sizes="(max-width: 500px) 100vw, 500px"> </a>
                                                         </div>
                                                     </div>
@@ -2295,7 +2295,7 @@
                                                                     src="wp_content/uploads/2024/04/corporate_gifting.webp"
                                                                     class="attachment-large size-large wp-image-74920"
                                                                     alt=""
-                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/Corporate-gifting.webp 500w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/Corporate-gifting-300x210.webp 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/Corporate-gifting-64x45.webp 64w"
+                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/04/Corporate-gifting.webp 500w, https://themerchlist.com/wp-content/uploads/2024/04/Corporate-gifting-300x210.webp 300w, https://themerchlist.com/wp-content/uploads/2024/04/Corporate-gifting-64x45.webp 64w"
                                                                     sizes="(max-width: 500px) 100vw, 500px"> </a>
                                                         </div>
                                                     </div>
@@ -2365,11 +2365,11 @@
                                                                 <picture decoding="async"
                                                                     class="attachment-large size-large wp-image-75004">
                                                                     <source type="image/avif"
-                                                                        srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/5-12.png.avif 500w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/5-12-300x210.png.avif 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/5-12-64x45.png.avif 64w"
+                                                                        srcset="https://themerchlist.com/wp-content/uploads/2024/04/5-12.png.avif 500w, https://themerchlist.com/wp-content/uploads/2024/04/5-12-300x210.png.avif 300w, https://themerchlist.com/wp-content/uploads/2024/04/5-12-64x45.png.avif 64w"
                                                                         sizes="(max-width: 500px) 100vw, 500px">
                                                                     <img decoding="async" width="500" height="350"
                                                                         src="wp_content/uploads/2024/04/5_12.png" alt=""
-                                                                        srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/5-12.png 500w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/5-12-300x210.png 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/5-12-64x45.png 64w"
+                                                                        srcset="https://themerchlist.com/wp-content/uploads/2024/04/5-12.png 500w, https://themerchlist.com/wp-content/uploads/2024/04/5-12-300x210.png 300w, https://themerchlist.com/wp-content/uploads/2024/04/5-12-64x45.png 64w"
                                                                         sizes="(max-width: 500px) 100vw, 500px">
                                                                 </picture>
                                                             </a>
@@ -2441,11 +2441,11 @@
                                                                 <picture decoding="async"
                                                                     class="attachment-large size-large wp-image-75007">
                                                                     <source type="image/avif"
-                                                                        srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/3-30.png.avif 500w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/3-30-300x210.png.avif 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/3-30-64x45.png.avif 64w"
+                                                                        srcset="https://themerchlist.com/wp-content/uploads/2024/04/3-30.png.avif 500w, https://themerchlist.com/wp-content/uploads/2024/04/3-30-300x210.png.avif 300w, https://themerchlist.com/wp-content/uploads/2024/04/3-30-64x45.png.avif 64w"
                                                                         sizes="(max-width: 500px) 100vw, 500px">
                                                                     <img decoding="async" width="500" height="350"
                                                                         src="wp_content/uploads/2024/04/3_30.png" alt=""
-                                                                        srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/3-30.png 500w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/3-30-300x210.png 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/3-30-64x45.png 64w"
+                                                                        srcset="https://themerchlist.com/wp-content/uploads/2024/04/3-30.png 500w, https://themerchlist.com/wp-content/uploads/2024/04/3-30-300x210.png 300w, https://themerchlist.com/wp-content/uploads/2024/04/3-30-64x45.png 64w"
                                                                         sizes="(max-width: 500px) 100vw, 500px">
                                                                 </picture>
                                                             </a>
@@ -2525,7 +2525,7 @@
                                                                             src="wp_content/uploads/2023/08/drinkware_mobile.webp"
                                                                             class="attachment-full size-full wp-image-48622"
                                                                             alt=""
-                                                                            srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/08/drinkware-mobile.webp 600w, <?php echo BASE_URL; ?>wp-content/uploads/2023/08/drinkware-mobile-300x250.webp 300w"
+                                                                            srcset="https://themerchlist.com/wp-content/uploads/2023/08/drinkware-mobile.webp 600w, https://themerchlist.com/wp-content/uploads/2023/08/drinkware-mobile-300x250.webp 300w"
                                                                             sizes="(max-width: 600px) 100vw, 600px"></a>
                                                                 </figure>
                                                                 <div class="elementor-image-box-content">
@@ -2570,7 +2570,7 @@
                                                                             src="wp_content/uploads/2023/08/2_1.webp"
                                                                             class="attachment-full size-full wp-image-48225"
                                                                             alt=""
-                                                                            srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/08/2-1.webp 600w, <?php echo BASE_URL; ?>wp-content/uploads/2023/08/2-1-300x250.webp 300w"
+                                                                            srcset="https://themerchlist.com/wp-content/uploads/2023/08/2-1.webp 600w, https://themerchlist.com/wp-content/uploads/2023/08/2-1-300x250.webp 300w"
                                                                             sizes="(max-width: 600px) 100vw, 600px"></a>
                                                                 </figure>
                                                                 <div class="elementor-image-box-content">
@@ -2621,7 +2621,7 @@
                                                                             src="wp_content/uploads/2023/08/1.webp"
                                                                             class="attachment-full size-full wp-image-48197"
                                                                             alt=""
-                                                                            srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/08/1.webp 600w, <?php echo BASE_URL; ?>wp-content/uploads/2023/08/1-300x250.webp 300w"
+                                                                            srcset="https://themerchlist.com/wp-content/uploads/2023/08/1.webp 600w, https://themerchlist.com/wp-content/uploads/2023/08/1-300x250.webp 300w"
                                                                             sizes="(max-width: 600px) 100vw, 600px"></a>
                                                                 </figure>
                                                                 <div class="elementor-image-box-content">
@@ -2665,13 +2665,13 @@
                                                                         <picture decoding="async"
                                                                             class="attachment-full size-full wp-image-75001">
                                                                             <source type="image/avif"
-                                                                                srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/Paper-and-print.png.avif 600w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/Paper-and-print-300x250.png.avif 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/Paper-and-print-64x53.png.avif 64w"
+                                                                                srcset="https://themerchlist.com/wp-content/uploads/2024/04/Paper-and-print.png.avif 600w, https://themerchlist.com/wp-content/uploads/2024/04/Paper-and-print-300x250.png.avif 300w, https://themerchlist.com/wp-content/uploads/2024/04/Paper-and-print-64x53.png.avif 64w"
                                                                                 sizes="(max-width: 600px) 100vw, 600px">
                                                                             <img decoding="async" width="600"
                                                                                 height="500"
                                                                                 src="wp_content/uploads/2024/04/paper_and_print.png"
                                                                                 alt=""
-                                                                                srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/Paper-and-print.png 600w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/Paper-and-print-300x250.png 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/Paper-and-print-64x53.png 64w"
+                                                                                srcset="https://themerchlist.com/wp-content/uploads/2024/04/Paper-and-print.png 600w, https://themerchlist.com/wp-content/uploads/2024/04/Paper-and-print-300x250.png 300w, https://themerchlist.com/wp-content/uploads/2024/04/Paper-and-print-64x53.png 64w"
                                                                                 sizes="(max-width: 600px) 100vw, 600px">
                                                                         </picture>
                                                                     </a></figure>
@@ -2723,7 +2723,7 @@
                                                                             src="wp_content/uploads/2023/08/6.webp"
                                                                             class="attachment-full size-full wp-image-48204"
                                                                             alt=""
-                                                                            srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/08/6.webp 600w, <?php echo BASE_URL; ?>wp-content/uploads/2023/08/6-300x250.webp 300w"
+                                                                            srcset="https://themerchlist.com/wp-content/uploads/2023/08/6.webp 600w, https://themerchlist.com/wp-content/uploads/2023/08/6-300x250.webp 300w"
                                                                             sizes="(max-width: 600px) 100vw, 600px"></a>
                                                                 </figure>
                                                                 <div class="elementor-image-box-content">
@@ -2767,13 +2767,13 @@
                                                                         <picture decoding="async"
                                                                             class="attachment-full size-full wp-image-161303">
                                                                             <source type="image/avif"
-                                                                                srcset="<?php echo BASE_URL; ?>wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111.png.avif 1875w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-300x250.png.avif 300w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-1024x854.png.avif 1024w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-768x640.png.avif 768w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-64x53.png.avif 64w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-480x400.png.avif 480w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-240x200.png.avif 240w"
+                                                                                srcset="https://themerchlist.com/wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111.png.avif 1875w, https://themerchlist.com/wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-300x250.png.avif 300w, https://themerchlist.com/wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-1024x854.png.avif 1024w, https://themerchlist.com/wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-768x640.png.avif 768w, https://themerchlist.com/wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-64x53.png.avif 64w, https://themerchlist.com/wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-480x400.png.avif 480w, https://themerchlist.com/wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-240x200.png.avif 240w"
                                                                                 sizes="(max-width: 1875px) 100vw, 1875px">
                                                                             <img decoding="async" width="1875"
                                                                                 height="1563"
                                                                                 src="wp_content/uploads/2025/04/travel_tech_600_x_500_px_4_111.png"
                                                                                 alt=""
-                                                                                srcset="<?php echo BASE_URL; ?>wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111.png 1875w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-300x250.png 300w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-1024x854.png 1024w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-768x640.png 768w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-1536x1280.png 1536w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-64x53.png 64w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-480x400.png 480w, <?php echo BASE_URL; ?>wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-240x200.png 240w"
+                                                                                srcset="https://themerchlist.com/wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111.png 1875w, https://themerchlist.com/wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-300x250.png 300w, https://themerchlist.com/wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-1024x854.png 1024w, https://themerchlist.com/wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-768x640.png 768w, https://themerchlist.com/wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-1536x1280.png 1536w, https://themerchlist.com/wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-64x53.png 64w, https://themerchlist.com/wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-480x400.png 480w, https://themerchlist.com/wp-content/uploads/2025/04/travel-tech-600-x-500-px-4-111-240x200.png 240w"
                                                                                 sizes="(max-width: 1875px) 100vw, 1875px">
                                                                         </picture>
                                                                     </a></figure>
@@ -2824,13 +2824,13 @@
                                                                         <picture decoding="async"
                                                                             class="attachment-full size-full wp-image-74998">
                                                                             <source type="image/avif"
-                                                                                srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/Boxes-and-Packaging.png.avif 600w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/Boxes-and-Packaging-300x250.png.avif 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/Boxes-and-Packaging-64x53.png.avif 64w"
+                                                                                srcset="https://themerchlist.com/wp-content/uploads/2024/04/Boxes-and-Packaging.png.avif 600w, https://themerchlist.com/wp-content/uploads/2024/04/Boxes-and-Packaging-300x250.png.avif 300w, https://themerchlist.com/wp-content/uploads/2024/04/Boxes-and-Packaging-64x53.png.avif 64w"
                                                                                 sizes="(max-width: 600px) 100vw, 600px">
                                                                             <img decoding="async" width="600"
                                                                                 height="500"
                                                                                 src="wp_content/uploads/2024/04/boxes_and_packaging.png"
                                                                                 alt=""
-                                                                                srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/Boxes-and-Packaging.png 600w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/Boxes-and-Packaging-300x250.png 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/Boxes-and-Packaging-64x53.png 64w"
+                                                                                srcset="https://themerchlist.com/wp-content/uploads/2024/04/Boxes-and-Packaging.png 600w, https://themerchlist.com/wp-content/uploads/2024/04/Boxes-and-Packaging-300x250.png 300w, https://themerchlist.com/wp-content/uploads/2024/04/Boxes-and-Packaging-64x53.png 64w"
                                                                                 sizes="(max-width: 600px) 100vw, 600px">
                                                                         </picture>
                                                                     </a></figure>
@@ -2876,7 +2876,7 @@
                                                                             src="wp_content/uploads/2024/04/corpotate_gifts.webp"
                                                                             class="attachment-full size-full wp-image-74912"
                                                                             alt=""
-                                                                            srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/corpotate-gifts.webp 600w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/corpotate-gifts-300x250.webp 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/corpotate-gifts-64x53.webp 64w"
+                                                                            srcset="https://themerchlist.com/wp-content/uploads/2024/04/corpotate-gifts.webp 600w, https://themerchlist.com/wp-content/uploads/2024/04/corpotate-gifts-300x250.webp 300w, https://themerchlist.com/wp-content/uploads/2024/04/corpotate-gifts-64x53.webp 64w"
                                                                             sizes="(max-width: 600px) 100vw, 600px"></a>
                                                                 </figure>
                                                                 <div class="elementor-image-box-content">
@@ -2927,7 +2927,7 @@
                                                                             src="wp_content/uploads/2024/04/home_and_wellness_1.webp"
                                                                             class="attachment-full size-full wp-image-74913"
                                                                             alt=""
-                                                                            srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/home-and-wellness-1.webp 600w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/home-and-wellness-1-300x250.webp 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/home-and-wellness-1-64x53.webp 64w"
+                                                                            srcset="https://themerchlist.com/wp-content/uploads/2024/04/home-and-wellness-1.webp 600w, https://themerchlist.com/wp-content/uploads/2024/04/home-and-wellness-1-300x250.webp 300w, https://themerchlist.com/wp-content/uploads/2024/04/home-and-wellness-1-64x53.webp 64w"
                                                                             sizes="(max-width: 600px) 100vw, 600px"></a>
                                                                 </figure>
                                                                 <div class="elementor-image-box-content">
@@ -2971,13 +2971,13 @@
                                                                         <picture decoding="async"
                                                                             class="attachment-full size-full wp-image-75000">
                                                                             <source type="image/avif"
-                                                                                srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/4-22.png.avif 600w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/4-22-300x250.png.avif 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/4-22-64x53.png.avif 64w"
+                                                                                srcset="https://themerchlist.com/wp-content/uploads/2024/04/4-22.png.avif 600w, https://themerchlist.com/wp-content/uploads/2024/04/4-22-300x250.png.avif 300w, https://themerchlist.com/wp-content/uploads/2024/04/4-22-64x53.png.avif 64w"
                                                                                 sizes="(max-width: 600px) 100vw, 600px">
                                                                             <img decoding="async" width="600"
                                                                                 height="500"
                                                                                 src="wp_content/uploads/2024/04/4_22.png"
                                                                                 alt=""
-                                                                                srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/04/4-22.png 600w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/4-22-300x250.png 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/04/4-22-64x53.png 64w"
+                                                                                srcset="https://themerchlist.com/wp-content/uploads/2024/04/4-22.png 600w, https://themerchlist.com/wp-content/uploads/2024/04/4-22-300x250.png 300w, https://themerchlist.com/wp-content/uploads/2024/04/4-22-64x53.png 64w"
                                                                                 sizes="(max-width: 600px) 100vw, 600px">
                                                                         </picture>
                                                                     </a></figure>
@@ -3059,7 +3059,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/04/ocean-bottle-logo.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/04/ocean-bottle-logo.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/04/ocean_bottle_logo.png"
                                                                                     alt="ocean bottle logo">
@@ -3076,7 +3076,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/06/294199487_466404712158811_3007650601025737332_n.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/06/294199487_466404712158811_3007650601025737332_n.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/06/294199487_466404712158811_3007650601025737332_n.png"
                                                                                     alt="294199487_466404712158811_3007650601025737332_n">
@@ -3093,7 +3093,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/06/myPalmfit-logo-1.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/06/myPalmfit-logo-1.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/06/mypalmfit_logo_1.png"
                                                                                     alt="myPalmfit logo">
@@ -3110,7 +3110,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/04/swisspeak.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/04/swisspeak.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/04/swisspeak.png"
                                                                                     alt="swisspeak">
@@ -3127,7 +3127,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/04/new-era.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/04/new-era.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/04/new_era.png"
                                                                                     alt="new era">
@@ -3144,7 +3144,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/12/MOYA-LOGO.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/12/MOYA-LOGO.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/12/moya_logo.png"
                                                                                     alt="MOYA LOGO">
@@ -3161,7 +3161,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/12/Apple-Logo-1.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/12/Apple-Logo-1.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/12/apple_logo_1.png"
                                                                                     alt="Apple Logo">
@@ -3178,7 +3178,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/06/Untitled_design__21_-removebg-preview.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/06/Untitled_design__21_-removebg-preview.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/06/untitled_design__21__removebg_preview.png"
                                                                                     alt="Untitled_design__21_-removebg-preview">
@@ -3207,7 +3207,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/04/moleskine-2.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/04/moleskine-2.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/04/moleskine_2.png"
                                                                                     alt="moleskine">
@@ -3223,7 +3223,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/04/7-3.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/04/7-3.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/04/7_3.png"
                                                                                     alt="7">
@@ -3239,7 +3239,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/04/hans-larsen-logo.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/04/hans-larsen-logo.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/04/hans_larsen_logo.png"
                                                                                     alt="hans larsen logo">
@@ -3255,7 +3255,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/04/rocketbook.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/04/rocketbook.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/04/rocketbook.png"
                                                                                     alt="rocketbook">
@@ -3271,7 +3271,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/04/ocean-bottle-logo.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/04/ocean-bottle-logo.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/04/ocean_bottle_logo.png"
                                                                                     alt="ocean bottle logo">
@@ -3287,7 +3287,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/06/294199487_466404712158811_3007650601025737332_n.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/06/294199487_466404712158811_3007650601025737332_n.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/06/294199487_466404712158811_3007650601025737332_n.png"
                                                                                     alt="294199487_466404712158811_3007650601025737332_n">
@@ -3303,7 +3303,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/06/myPalmfit-logo-1.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/06/myPalmfit-logo-1.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/06/mypalmfit_logo_1.png"
                                                                                     alt="myPalmfit logo">
@@ -3320,7 +3320,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/04/swisspeak.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/04/swisspeak.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/04/swisspeak.png"
                                                                                     alt="swisspeak">
@@ -3336,7 +3336,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/04/new-era.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/04/new-era.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/04/new_era.png"
                                                                                     alt="new era">
@@ -3352,7 +3352,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/12/MOYA-LOGO.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/12/MOYA-LOGO.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/12/moya_logo.png"
                                                                                     alt="MOYA LOGO">
@@ -3368,7 +3368,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/12/Apple-Logo-1.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/12/Apple-Logo-1.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/12/apple_logo_1.png"
                                                                                     alt="Apple Logo">
@@ -3384,7 +3384,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/06/Untitled_design__21_-removebg-preview.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/06/Untitled_design__21_-removebg-preview.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/06/untitled_design__21__removebg_preview.png"
                                                                                     alt="Untitled_design__21_-removebg-preview">
@@ -3412,7 +3412,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/04/moleskine-2.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/04/moleskine-2.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/04/moleskine_2.png"
                                                                                     alt="moleskine">
@@ -3428,7 +3428,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/04/7-3.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/04/7-3.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/04/7_3.png"
                                                                                     alt="7">
@@ -3444,7 +3444,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/04/hans-larsen-logo.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/04/hans-larsen-logo.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/04/hans_larsen_logo.png"
                                                                                     alt="hans larsen logo">
@@ -3460,7 +3460,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/04/rocketbook.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/04/rocketbook.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/04/rocketbook.png"
                                                                                     alt="rocketbook">
@@ -3477,7 +3477,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/04/ocean-bottle-logo.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/04/ocean-bottle-logo.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/04/ocean_bottle_logo.png"
                                                                                     alt="ocean bottle logo">
@@ -3494,7 +3494,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/06/294199487_466404712158811_3007650601025737332_n.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/06/294199487_466404712158811_3007650601025737332_n.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/06/294199487_466404712158811_3007650601025737332_n.png"
                                                                                     alt="294199487_466404712158811_3007650601025737332_n">
@@ -3511,7 +3511,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/06/myPalmfit-logo-1.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/06/myPalmfit-logo-1.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/06/mypalmfit_logo_1.png"
                                                                                     alt="myPalmfit logo">
@@ -3528,7 +3528,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/04/swisspeak.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/04/swisspeak.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/04/swisspeak.png"
                                                                                     alt="swisspeak">
@@ -3545,7 +3545,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2023/04/new-era.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2023/04/new-era.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2023/04/new_era.png"
                                                                                     alt="new era">
@@ -3619,7 +3619,7 @@
                                                                     src="wp_content/uploads/2024/01/elevate_your_company_with_custom_promotional_products.webp"
                                                                     class="attachment-full size-full wp-image-65400"
                                                                     alt="Aanvio-Custom-Tshirts-Merch-Promotional-Products-Dubai-AbuDhabi-Riyadh-Custom-Printed-Aanvio-2"
-                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/01/ELEVATE-YOUR-COMPANY-WITH-CUSTOM-PROMOTIONAL-PRODUCTS.webp 1000w, <?php echo BASE_URL; ?>wp-content/uploads/2024/01/ELEVATE-YOUR-COMPANY-WITH-CUSTOM-PROMOTIONAL-PRODUCTS-300x75.webp 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/01/ELEVATE-YOUR-COMPANY-WITH-CUSTOM-PROMOTIONAL-PRODUCTS-768x192.webp 768w, <?php echo BASE_URL; ?>wp-content/uploads/2024/01/ELEVATE-YOUR-COMPANY-WITH-CUSTOM-PROMOTIONAL-PRODUCTS-64x16.webp 64w"
+                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/01/ELEVATE-YOUR-COMPANY-WITH-CUSTOM-PROMOTIONAL-PRODUCTS.webp 1000w, https://themerchlist.com/wp-content/uploads/2024/01/ELEVATE-YOUR-COMPANY-WITH-CUSTOM-PROMOTIONAL-PRODUCTS-300x75.webp 300w, https://themerchlist.com/wp-content/uploads/2024/01/ELEVATE-YOUR-COMPANY-WITH-CUSTOM-PROMOTIONAL-PRODUCTS-768x192.webp 768w, https://themerchlist.com/wp-content/uploads/2024/01/ELEVATE-YOUR-COMPANY-WITH-CUSTOM-PROMOTIONAL-PRODUCTS-64x16.webp 64w"
                                                                     sizes="(max-width: 1000px) 100vw, 1000px"> </a>
                                                         </div>
                                                     </div>
@@ -3666,7 +3666,7 @@
                                                             <img decoding="async" width="1920" height="270"
                                                                 src="wp_content/uploads/2024/02/brands.webp"
                                                                 class="attachment-full size-full wp-image-66957" alt=""
-                                                                srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/02/BRANDS.webp 1920w, <?php echo BASE_URL; ?>wp-content/uploads/2024/02/BRANDS-300x42.webp 300w, <?php echo BASE_URL; ?>wp-content/uploads/2024/02/BRANDS-1024x144.webp 1024w, <?php echo BASE_URL; ?>wp-content/uploads/2024/02/BRANDS-768x108.webp 768w, <?php echo BASE_URL; ?>wp-content/uploads/2024/02/BRANDS-1536x216.webp 1536w, <?php echo BASE_URL; ?>wp-content/uploads/2024/02/BRANDS-64x9.webp 64w"
+                                                                srcset="https://themerchlist.com/wp-content/uploads/2024/02/BRANDS.webp 1920w, https://themerchlist.com/wp-content/uploads/2024/02/BRANDS-300x42.webp 300w, https://themerchlist.com/wp-content/uploads/2024/02/BRANDS-1024x144.webp 1024w, https://themerchlist.com/wp-content/uploads/2024/02/BRANDS-768x108.webp 768w, https://themerchlist.com/wp-content/uploads/2024/02/BRANDS-1536x216.webp 1536w, https://themerchlist.com/wp-content/uploads/2024/02/BRANDS-64x9.webp 64w"
                                                                 sizes="(max-width: 1920px) 100vw, 1920px">
                                                         </div>
                                                     </div>
@@ -3691,7 +3691,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/14.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/14.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/14.png"
                                                                                     alt="14">
@@ -3708,7 +3708,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/15.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/15.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/15.png"
                                                                                     alt="15">
@@ -3725,7 +3725,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/16.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/16.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/16.png"
                                                                                     alt="16">
@@ -3742,7 +3742,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/17.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/17.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/17.png"
                                                                                     alt="17">
@@ -3759,7 +3759,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/18.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/18.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/18.png"
                                                                                     alt="18">
@@ -3775,7 +3775,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/1.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/1.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/1.png"
                                                                                     alt="1">
@@ -3791,7 +3791,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/2.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/2.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/2.png"
                                                                                     alt="2">
@@ -3807,7 +3807,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/3.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/3.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/3.png"
                                                                                     alt="3">
@@ -3834,7 +3834,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/5.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/5.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/5.png"
                                                                                     alt="5">
@@ -3850,7 +3850,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/6.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/6.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/6.png"
                                                                                     alt="6">
@@ -3866,7 +3866,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/7.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/7.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/7.png"
                                                                                     alt="7">
@@ -3893,7 +3893,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/9.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/9.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/9.png"
                                                                                     alt="9">
@@ -3909,7 +3909,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/10.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/10.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/10.png"
                                                                                     alt="10">
@@ -3926,7 +3926,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/11.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/11.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/11.png"
                                                                                     alt="11">
@@ -3943,7 +3943,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/12.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/12.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/12.png"
                                                                                     alt="12">
@@ -3972,7 +3972,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/14.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/14.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/14.png"
                                                                                     alt="14">
@@ -3989,7 +3989,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/15.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/15.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/15.png"
                                                                                     alt="15">
@@ -4006,7 +4006,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/16.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/16.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/16.png"
                                                                                     alt="16">
@@ -4023,7 +4023,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/17.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/17.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/17.png"
                                                                                     alt="17">
@@ -4040,7 +4040,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/18.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/18.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/18.png"
                                                                                     alt="18">
@@ -4056,7 +4056,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/1.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/1.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/1.png"
                                                                                     alt="1">
@@ -4072,7 +4072,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/2.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/2.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/2.png"
                                                                                     alt="2">
@@ -4088,7 +4088,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/3.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/3.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/3.png"
                                                                                     alt="3">
@@ -4115,7 +4115,7 @@
                                                                             <picture decoding="async"
                                                                                 class="swiper-slide-image">
                                                                                 <source type="image/avif"
-                                                                                    srcset="<?php echo BASE_URL; ?>wp-content/uploads/2024/03/5.png.avif">
+                                                                                    srcset="https://themerchlist.com/wp-content/uploads/2024/03/5.png.avif">
                                                                                 <img decoding="async"
                                                                                     src="wp_content/uploads/2024/03/5.png"
                                                                                     alt="5">
@@ -4214,7 +4214,7 @@
                                                         <img width="600" height="100"
                                                             src="wp_content/uploads/2020/06/logo_footer.png"
                                                             class="attachment-full size-full wp-image-121763" alt=""
-                                                            srcset="<?php echo BASE_URL; ?>wp-content/uploads/2020/06/logo-footer.png 600w, <?php echo BASE_URL; ?>wp-content/uploads/2020/06/logo-footer-300x50.png 300w, <?php echo BASE_URL; ?>wp-content/uploads/2020/06/logo-footer-64x11.png 64w, <?php echo BASE_URL; ?>wp-content/uploads/2020/06/logo-footer-480x80.png 480w, <?php echo BASE_URL; ?>wp-content/uploads/2020/06/logo-footer-240x40.png 240w"
+                                                            srcset="https://themerchlist.com/wp-content/uploads/2020/06/logo-footer.png 600w, https://themerchlist.com/wp-content/uploads/2020/06/logo-footer-300x50.png 300w, https://themerchlist.com/wp-content/uploads/2020/06/logo-footer-64x11.png 64w, https://themerchlist.com/wp-content/uploads/2020/06/logo-footer-480x80.png 480w, https://themerchlist.com/wp-content/uploads/2020/06/logo-footer-240x40.png 240w"
                                                             sizes="(max-width: 600px) 100vw, 600px">
                                                     </div>
                                                 </div>
@@ -5953,8 +5953,7 @@
                                             <div class="elementor-shortcode">
                                                 <div class="gtranslate_wrapper gt_container--raxies"
                                                     id="gt-wrapper-64623491">
-                                                    <a
-                                                        href="<?php echo BASE_URL; ?>" data-gt-lang="en"
+                                                    <a href="<?php echo BASE_URL; ?>" data-gt-lang="en"
                                                         class="glink nturl notranslate gt-current-lang">English</a> <a
                                                         href="<?php echo BASE_URL; ?>ar/" data-gt-lang="ar"
                                                         class="glink nturl notranslate">العربية</a>
@@ -6824,11 +6823,11 @@
     <script type="text/javascript" src="wp_includes/js/dist/api_fetch.min.js" id="wp-api-fetch-js"></script>
     <script type="text/javascript" id="wp-api-fetch-js-after">
     /* <![CDATA[ */
-    wp.apiFetch.use(wp.apiFetch.createRootURLMiddleware("<?php echo BASE_URL; ?>wp-json/"));
+    wp.apiFetch.use(wp.apiFetch.createRootURLMiddleware("https://themerchlist.com/wp-json/"));
     wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware("226d3f67fa");
     wp.apiFetch.use(wp.apiFetch.nonceMiddleware);
     wp.apiFetch.use(wp.apiFetch.mediaUploadMiddleware);
-    wp.apiFetch.nonceEndpoint = "<?php echo BASE_URL; ?>wp-admin/admin-ajax.php?action=rest-nonce";
+    wp.apiFetch.nonceEndpoint = "https://themerchlist.com/wp-admin/admin-ajax.php?action=rest-nonce";
     /* ]]> */
     </script>
     <script type="text/javascript" id="wc-settings-js-before">

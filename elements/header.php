@@ -920,7 +920,7 @@
                                     <div
                                         class="dgwt-wcas-search-wrapp dgwt-wcas-is-detail-box dgwt-wcas-has-submit woocommerce dgwt-wcas-style-pirx js-dgwt-wcas-layout-classic dgwt-wcas-layout-classic js-dgwt-wcas-mobile-overlay-enabled dgwt-wcas-suggestions-wrapp-initialized">
                                         <form class="dgwt-wcas-search-form" role="search"
-                                            action="<?php echo BASE_URL; ?>" method="get">
+                                            action="https://themerchlist.com/" method="get">
                                             <div class="dgwt-wcas-sf-wrapp">
                                                 <label class="screen-reader-text"
                                                     for="dgwt-wcas-search-input-2">Products search</label>

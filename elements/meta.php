@@ -61,11 +61,11 @@ include "./config/index.php";
     <meta property="og:title" content="Aanvio - Custom T shirts, Merch And Promotional Products">
     <meta property="og:description"
         content="Create Custom T shirts, Hoodies, Corporate Gifts, Uniforms, Drinkware, Bags, Accessories and 500+ Promotional Products with Aanvio">
-    <meta property="og:url" content="<?php echo BASE_URL; ?>">
+    <meta property="og:url" content="https://themerchlist.com/">
     <meta property="og:site_name" content="Aanvio">
     <meta property="article:publisher" content="https://www.facebook.com/aanvio/">
     <meta property="article:modified_time" content="2025-08-29T08:19:10+00:00">
-    <meta property="og:image" content="<?php echo BASE_URL; ?>wp-content/uploads/2023/08/6-1.webp">
+    <meta property="og:image" content="https://themerchlist.com/wp-content/uploads/2023/08/6-1.webp">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Aanvio - Custom T shirts, Merch And Promotional Products">
     <meta name="twitter:description"
@@ -75,44 +75,44 @@ include "./config/index.php";
         "@context": "https://schema.org",
         "@graph": [{
             "@type": "WebPage",
-            "@id": "<?php echo BASE_URL; ?>",
-            "url": "<?php echo BASE_URL; ?>",
+            "@id": "https://themerchlist.com/",
+            "url": "https://themerchlist.com/",
             "name": "Aanvio - Custom T shirts, Gifts​, Merch And Promotional Products",
             "isPartOf": {
-                "@id": "<?php echo BASE_URL; ?>#website"
+                "@id": "https://themerchlist.com/#website"
             },
             "about": {
-                "@id": "<?php echo BASE_URL; ?>#organization"
+                "@id": "https://themerchlist.com/#organization"
             },
             "primaryImageOfPage": {
-                "@id": "<?php echo BASE_URL; ?>#primaryimage"
+                "@id": "https://themerchlist.com/#primaryimage"
             },
             "image": {
-                "@id": "<?php echo BASE_URL; ?>#primaryimage"
+                "@id": "https://themerchlist.com/#primaryimage"
             },
-            "thumbnailUrl": "<?php echo BASE_URL; ?>wp-content/uploads/2023/08/6-1.webp",
+            "thumbnailUrl": "https://themerchlist.com/wp-content/uploads/2023/08/6-1.webp",
             "datePublished": "2023-02-28T12:16:07+00:00",
             "dateModified": "2025-08-29T08:19:10+00:00",
             "description": "Custom T shirts, Hoodies, Corporate Gifts, Uniforms, Drinkware, Bags, Customized Gifts and 1000+ Promotional Products For Printing with Merchlist.",
             "breadcrumb": {
-                "@id": "<?php echo BASE_URL; ?>#breadcrumb"
+                "@id": "https://themerchlist.com/#breadcrumb"
             },
             "inLanguage": "en-GB",
             "potentialAction": [{
                 "@type": "ReadAction",
-                "target": ["<?php echo BASE_URL; ?>"]
+                "target": ["https://themerchlist.com/"]
             }]
         }, {
             "@type": "ImageObject",
             "inLanguage": "en-GB",
-            "@id": "<?php echo BASE_URL; ?>#primaryimage",
-            "url": "<?php echo BASE_URL; ?>wp-content/uploads/2023/08/6-1.webp",
-            "contentUrl": "<?php echo BASE_URL; ?>wp-content/uploads/2023/08/6-1.webp",
+            "@id": "https://themerchlist.com/#primaryimage",
+            "url": "https://themerchlist.com/wp-content/uploads/2023/08/6-1.webp",
+            "contentUrl": "https://themerchlist.com/wp-content/uploads/2023/08/6-1.webp",
             "width": 600,
             "height": 500
         }, {
             "@type": "BreadcrumbList",
-            "@id": "<?php echo BASE_URL; ?>#breadcrumb",
+            "@id": "https://themerchlist.com/#breadcrumb",
             "itemListElement": [{
                 "@type": "ListItem",
                 "position": 1,
@@ -120,18 +120,18 @@ include "./config/index.php";
             }]
         }, {
             "@type": "WebSite",
-            "@id": "<?php echo BASE_URL; ?>#website",
-            "url": "<?php echo BASE_URL; ?>",
+            "@id": "https://themerchlist.com/#website",
+            "url": "https://themerchlist.com/",
             "name": "Aanvio",
             "description": "Custom T-shirts, Merch, and Promotional Products",
             "publisher": {
-                "@id": "<?php echo BASE_URL; ?>#organization"
+                "@id": "https://themerchlist.com/#organization"
             },
             "potentialAction": [{
                 "@type": "SearchAction",
                 "target": {
                     "@type": "EntryPoint",
-                    "urlTemplate": "<?php echo BASE_URL; ?>?s={search_term_string}"
+                    "urlTemplate": "https://themerchlist.com/?s={search_term_string}"
                 },
                 "query-input": {
                     "@type": "PropertyValueSpecification",
@@ -142,14 +142,14 @@ include "./config/index.php";
             "inLanguage": "en-GB"
         }, {
             "@type": ["Organization", "Place"],
-            "@id": "<?php echo BASE_URL; ?>#organization",
+            "@id": "https://themerchlist.com/#organization",
             "name": "Aanvio",
-            "url": "<?php echo BASE_URL; ?>",
+            "url": "https://themerchlist.com/",
             "logo": {
-                "@id": "<?php echo BASE_URL; ?>#local-main-organization-logo"
+                "@id": "https://themerchlist.com/#local-main-organization-logo"
             },
             "image": {
-                "@id": "<?php echo BASE_URL; ?>#local-main-organization-logo"
+                "@id": "https://themerchlist.com/#local-main-organization-logo"
             },
             "sameAs": ["https://www.facebook.com/aanvio/", "https://www.linkedin.com/company/aanvio",
                 "https://www.instagram.com/aanvio/", "https://www.youtube.com/@aanvio",
@@ -163,15 +163,15 @@ include "./config/index.php";
                 "minValue": "51",
                 "maxValue": "200"
             },
-            "publishingPrinciples": "<?php echo BASE_URL; ?>about-us/",
-            "ownershipFundingInfo": "<?php echo BASE_URL; ?>about-us/",
-            "actionableFeedbackPolicy": "<?php echo BASE_URL; ?>about-us/",
-            "correctionsPolicy": "<?php echo BASE_URL; ?>about-us/",
-            "ethicsPolicy": "<?php echo BASE_URL; ?>about-us/",
-            "diversityPolicy": "<?php echo BASE_URL; ?>about-us/",
-            "diversityStaffingReport": "<?php echo BASE_URL; ?>about-us/",
+            "publishingPrinciples": "https://themerchlist.com/about-us/",
+            "ownershipFundingInfo": "https://themerchlist.com/about-us/",
+            "actionableFeedbackPolicy": "https://themerchlist.com/about-us/",
+            "correctionsPolicy": "https://themerchlist.com/about-us/",
+            "ethicsPolicy": "https://themerchlist.com/about-us/",
+            "diversityPolicy": "https://themerchlist.com/about-us/",
+            "diversityStaffingReport": "https://themerchlist.com/about-us/",
             "address": {
-                "@id": "<?php echo BASE_URL; ?>#local-main-place-address"
+                "@id": "https://themerchlist.com/#local-main-place-address"
             },
             "geo": {
                 "@type": "GeoCoordinates",
@@ -197,7 +197,7 @@ include "./config/index.php";
             "globalLocationNumber": "AIzaSyBN8MqemceoR_kFh7tO72LdwCM-_iFv7ls"
         }, {
             "@type": "PostalAddress",
-            "@id": "<?php echo BASE_URL; ?>#local-main-place-address",
+            "@id": "https://themerchlist.com/#local-main-place-address",
             "streetAddress": "Office 1, in5 Design, Dubai Design District",
             "addressLocality": "Dubai",
             "postalCode": "4912",
@@ -206,9 +206,9 @@ include "./config/index.php";
         }, {
             "@type": "ImageObject",
             "inLanguage": "en-GB",
-            "@id": "<?php echo BASE_URL; ?>#local-main-organization-logo",
-            "url": "<?php echo BASE_URL; ?>wp-content/uploads/2023/10/cropped-Aanvio-icon-logo.png",
-            "contentUrl": "<?php echo BASE_URL; ?>wp-content/uploads/2023/10/cropped-Aanvio-icon-logo.png",
+            "@id": "https://themerchlist.com/#local-main-organization-logo",
+            "url": "https://themerchlist.com/wp-content/uploads/2023/10/cropped-Aanvio-icon-logo.png",
+            "contentUrl": "https://themerchlist.com/wp-content/uploads/2023/10/cropped-Aanvio-icon-logo.png",
             "width": 512,
             "height": 512,
             "caption": "Aanvio"
@@ -374,7 +374,7 @@ include "./config/index.php";
     }
 
     .xoo-el-sidebar {
-        background-image: url(<?php echo BASE_URL; ?>wp-content/plugins/easy-login-woocommerce/assets/images/popup-sidebar.jpg);
+        background-image: url(https://themerchlist.com/wp-content/plugins/easy-login-woocommerce/assets/images/popup-sidebar.jpg);
         min-width: 40%;
     }
 
@@ -973,7 +973,7 @@ include "./config/index.php";
     }
 
     .dgwt-wcas-inner-preloader {
-        background-image: url(<?php echo BASE_URL; ?>wp-content/uploads/2023/12/Circles-menu-3.gif)
+        background-image: url(https://themerchlist.com/wp-content/uploads/2023/12/Circles-menu-3.gif)
     }
 
     .dgwt-wcas-inner-preloader * {
@@ -1017,7 +1017,7 @@ include "./config/index.php";
         font-style: normal;
         font-weight: normal;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Regular.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Regular.woff2') format('woff2');
     }
 
     @font-face {
@@ -1025,7 +1025,7 @@ include "./config/index.php";
         font-style: normal;
         font-weight: 100;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNovaT-Thin.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNovaT-Thin.woff2') format('woff2');
     }
 
     @font-face {
@@ -1033,7 +1033,7 @@ include "./config/index.php";
         font-style: normal;
         font-weight: 200;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNovaT-Thin-1.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNovaT-Thin-1.woff2') format('woff2');
     }
 
     @font-face {
@@ -1041,7 +1041,7 @@ include "./config/index.php";
         font-style: normal;
         font-weight: 300;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Light.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Light.woff2') format('woff2');
     }
 
     @font-face {
@@ -1049,7 +1049,7 @@ include "./config/index.php";
         font-style: normal;
         font-weight: 400;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Regular-1.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Regular-1.woff2') format('woff2');
     }
 
     @font-face {
@@ -1057,7 +1057,7 @@ include "./config/index.php";
         font-style: normal;
         font-weight: 500;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Regular-2.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Regular-2.woff2') format('woff2');
     }
 
     @font-face {
@@ -1065,7 +1065,7 @@ include "./config/index.php";
         font-style: normal;
         font-weight: 600;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Semibold.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Semibold.woff2') format('woff2');
     }
 
     @font-face {
@@ -1073,7 +1073,7 @@ include "./config/index.php";
         font-style: normal;
         font-weight: 700;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Bold.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Bold.woff2') format('woff2');
     }
 
     @font-face {
@@ -1081,7 +1081,7 @@ include "./config/index.php";
         font-style: normal;
         font-weight: 800;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Extrabld.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Extrabld.woff2') format('woff2');
     }
 
     @font-face {
@@ -1089,7 +1089,7 @@ include "./config/index.php";
         font-style: normal;
         font-weight: bold;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Bold-1.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Bold-1.woff2') format('woff2');
     }
     </style>
     <link rel="icon" href="<?php echo BASE_URL; ?>wp-content/uploads/2023/10/cropped-Aanvio-icon-logo-32x32.png"
@@ -1099,7 +1099,7 @@ include "./config/index.php";
     <link rel="apple-touch-icon"
         href="<?php echo BASE_URL; ?>wp-content/uploads/2023/10/cropped-Aanvio-icon-logo-180x180.png">
     <meta name="msapplication-TileImage"
-        content="<?php echo BASE_URL; ?>wp-content/uploads/2023/10/cropped-Aanvio-icon-logo-270x270.png">
+        content="https://themerchlist.com/wp-content/uploads/2023/10/cropped-Aanvio-icon-logo-270x270.png">
     <style type="text/css">
     div.nsl-container[data-align="left"] {
         text-align: left;
@@ -1799,7 +1799,7 @@ include "./config/index.php";
         display: block;
         width: 100%;
         min-height: 200px;
-        background-image: url(<?php echo BASE_URL; ?>wp-content/uploads/2024/12/Order-delivery.png);
+        background-image: url(https://themerchlist.com/wp-content/uploads/2024/12/Order-delivery.png);
         background-size: contain;
         background-repeat: no-repeat;
         margin-top: 10px;
@@ -2243,7 +2243,7 @@ include "./config/index.php";
 
     .pp-loading-container {
         position: relative;
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/12/truck.gif');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/12/truck.gif');
         background-size: contain;
         /* Adjusts the image to cover the entire container */
         background-repeat: no-repeat;
@@ -3130,7 +3130,7 @@ padding: 1em;
     }
 
     a.rey-summaryAcc-accItem[href="#acctab-description"] span::before {
-        content: url(<?php echo BASE_URL; ?>wp-content/uploads/2025/07/Description.svg);
+        content: url(https://themerchlist.com/wp-content/uploads/2025/07/Description.svg);
         margin-right: 15px;
     }
 
@@ -3143,12 +3143,12 @@ padding: 1em;
     }
 
     a.rey-summaryAcc-accItem[href="#acctab-additional_information"] span::before {
-        content: url(<?php echo BASE_URL; ?>wp-content/uploads/2025/07/Material.svg);
+        content: url(https://themerchlist.com/wp-content/uploads/2025/07/Material.svg);
         margin-right: 15px;
     }
 
     a.rey-summaryAcc-accItem[href="#acctab-custom_tab_0"] span::before {
-        content: url(<?php echo BASE_URL; ?>wp-content/uploads/2025/07/Size.svg);
+        content: url(https://themerchlist.com/wp-content/uploads/2025/07/Size.svg);
         margin-right: 15px;
     }
 
@@ -3941,7 +3941,7 @@ padding: 1em;
     }
 
     :is(.woocommerce-message, .woocommerce-error, .woocommerce-info)::before {
-        content: url('<?php echo BASE_URL; ?>wp-content/uploads/2020/11/iconfinder_xmas-shopping-christmas-present-gift-bag_5443022.svg');
+        content: url('https://themerchlist.com/wp-content/uploads/2020/11/iconfinder_xmas-shopping-christmas-present-gift-bag_5443022.svg');
         width: 24px;
     }
 
@@ -4090,7 +4090,7 @@ padding: 1em;
         display: inline-flex;
         justify-content: space-between;
         height: 35px;
-        background-image: url(<?php echo BASE_URL; ?>wp-content/uploads/2025/01/promotion.png);
+        background-image: url(https://themerchlist.com/wp-content/uploads/2025/01/promotion.png);
         background-size: contain;
         background-repeat: no-repeat;
         color: black;
@@ -5037,19 +5037,19 @@ padding: 1em;
 
 
     .reyajfilter-layered-list li[data-value="1337"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/10/1-3.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/10/1-3.png');
     }
 
     .reyajfilter-layered-list li[data-value="1338"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/10/2-5.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/10/2-5.png');
     }
 
     .reyajfilter-layered-list li[data-value="1432"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/06/bestsellertag.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2025/06/bestsellertag.png');
     }
 
     .reyajfilter-layered-list li[data-value="1433"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/06/boxes-new-arrivals.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2025/06/boxes-new-arrivals.png');
     }
 
     li#menu-item-176309 a {
@@ -5067,184 +5067,184 @@ padding: 1em;
 
     /*Hoodies and Jackets*/
     .reyajfilter-layered-list li[data-value="429"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Hoodie-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Hoodie-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="432"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Jackets-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Jackets-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="430"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Sweater-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Sweater-Icon.png');
     }
 
     /*End Hoodies and Jackets*/
     /*Tshirts and Polos*/
     .reyajfilter-layered-list li[data-value="428"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Tshirts-Icon-1.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Tshirts-Icon-1.png');
     }
 
     .reyajfilter-layered-list li[data-value="433"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Polos-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Polos-Icon.png');
     }
 
     /*End Tshirts and Polos*/
     /*Activewear*/
     .reyajfilter-layered-list li[data-value="1396"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Gym-bags-icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Gym-bags-icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="885"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Bottles-and-Tublers-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Bottles-and-Tublers-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="418"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Caps-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Caps-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="1326"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Jerseys-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Jerseys-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="1209"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Joggers-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Joggers-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="1283"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Shorts-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Shorts-Icon.png');
     }
 
     /*End of Activewear*/
     /*Workwear*/
     .reyajfilter-layered-list li[data-value="882"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Medical-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Medical-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="611"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Office-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Office-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="883"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Safety-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Safety-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="1374"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Kitchen-icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Kitchen-icon.png');
     }
 
     /*Drinkware*/
     .reyajfilter-layered-list li[data-value="884"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Cups-and-Mugs-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Cups-and-Mugs-Icon.png');
     }
 
     /*Caps*/
     .reyajfilter-layered-list li[data-value="1394"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Outdoor-Caps-Icon-1.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Outdoor-Caps-Icon-1.png');
     }
 
     .reyajfilter-layered-list li[data-value="1330"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Bucket-Hat-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Bucket-Hat-Icon.png');
     }
 
     /*Bags*/
     .reyajfilter-layered-list li[data-value="1390"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Shopping-bags-icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Shopping-bags-icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="616"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Drawstring-icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Drawstring-icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="1377"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Language-bags-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Language-bags-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="1398"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Office-Laptop-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Office-Laptop-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="1379"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Pouches-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Pouches-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="616"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Tote-and-Jute-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Tote-and-Jute-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="1393"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Drawstring-icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Drawstring-icon.png');
     }
 
     /*Office Stationery*/
     .reyajfilter-layered-list li[data-value="1378"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Speakers-and-Headphones.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Speakers-and-Headphones.png');
     }
 
     .reyajfilter-layered-list li[data-value="1375"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Chargers-and-Powerbanks.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Chargers-and-Powerbanks.png');
     }
 
     .reyajfilter-layered-list li[data-value="1376"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Adapters-and-USBs.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Adapters-and-USBs.png');
     }
 
     .reyajfilter-layered-list li[data-value="408"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Ecofriendly.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Ecofriendly.png');
     }
 
     .reyajfilter-layered-list li[data-value="438"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Gift-sets-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Gift-sets-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="159"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Travel-Accessories.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Travel-Accessories.png');
     }
 
     .reyajfilter-layered-list li[data-value="1386"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Signs-and-Banners-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Signs-and-Banners-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="1387"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Cards-and-Flyers-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Cards-and-Flyers-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="1385"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Business-Cards-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Business-Cards-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="892"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Notebooks-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Notebooks-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="424"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Pens-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Pens-Icon.png');
     }
 
     .reyajfilter-layered-list li[data-value="894"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Trophies-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Trophies-Icon.png');
     }
 
     /*Boxes and Packaging*/
     .reyajfilter-layered-list li[data-value="614"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Boxes-Icons.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Boxes-Icons.png');
     }
 
     .reyajfilter-layered-list li[data-value="1384"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Mailer-Bags-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Mailer-Bags-Icon.png');
     }
 
     /*Paper and Advert*/
     .reyajfilter-layered-list li[data-value="444"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Stickers-Icons.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Stickers-Icons.png');
     }
 
     /*Home Wellness*/
     .reyajfilter-layered-list li[data-value="1389"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Living-and-Decor.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Living-and-Decor.png');
     }
 
     .reyajfilter-layered-list li[data-value="1328"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/11/Wellness-Icon.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/11/Wellness-Icon.png');
     }
 
 
@@ -5267,37 +5267,37 @@ padding: 1em;
 
     /*term-home-wellness*/
     .reyajfilter-layered-list li[data-value="1287"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/10/3-4.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/10/3-4.png');
 
     }
 
     .reyajfilter-layered-list li[data-value="1333"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/10/7-1.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/10/7-1.png');
 
     }
 
     .reyajfilter-layered-list li[data-value="1334"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/10/8-2.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/10/8-2.png');
     }
 
     .reyajfilter-layered-list li[data-value="887"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/10/9-1.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/10/9-1.png');
     }
 
     .reyajfilter-layered-list li[data-value="1060"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/10/10-2.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/10/10-2.png');
     }
 
     .reyajfilter-layered-list li[data-value="895"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/10/4-4.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/10/4-4.png');
     }
 
     .reyajfilter-layered-list li[data-value="1336"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/10/5.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/10/5.png');
     }
 
     .reyajfilter-layered-list li[data-value="1339"] .__name::before {
-        background-image: url('<?php echo BASE_URL; ?>wp-content/uploads/2024/10/6-1.png');
+        background-image: url('https://themerchlist.com/wp-content/uploads/2024/10/6-1.png');
     }
 
     /* Shared styles for all ::before images */
@@ -5305,7 +5305,7 @@ padding: 1em;
 
     /* Food & Candy Start */
     .reyajfilter-layered-list li[data-value="1407"] .__name::before {
-        background-image: url(<?php echo BASE_URL; ?>wp-content/uploads/2025/01/candy.svg);
+        background-image: url(https://themerchlist.com/wp-content/uploads/2025/01/candy.svg);
     }
 
     /* Food & Candy End */
@@ -5777,7 +5777,7 @@ padding: 1em;
         width: 26px;
         height: 26px;
         margin-right: 8px;
-        background: center / contain no-repeat url("<?php echo BASE_URL; ?>wp-content/uploads/2025/09/icons8-sewing-tape-measure-96-3.png");
+        background: center / contain no-repeat url("https://themerchlist.com/wp-content/uploads/2025/09/icons8-sewing-tape-measure-96-3.png");
         pointer-events: none;
     }
 
@@ -5788,7 +5788,7 @@ padding: 1em;
         width: 24px;
         height: var(--ml-icon-size);
         margin-left: 4px;
-        background: center / contain no-repeat url("<?php echo BASE_URL; ?>wp-content/uploads/2025/09/icons8-buy-96.png");
+        background: center / contain no-repeat url("https://themerchlist.com/wp-content/uploads/2025/09/icons8-buy-96.png");
         pointer-events: none;
     }
 
@@ -5952,7 +5952,7 @@ padding: 1em;
         font-style: normal;
         font-weight: normal;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Regular.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Regular.woff2') format('woff2');
     }
 
     @font-face {
@@ -5960,7 +5960,7 @@ padding: 1em;
         font-style: normal;
         font-weight: 100;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNovaT-Thin.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNovaT-Thin.woff2') format('woff2');
     }
 
     @font-face {
@@ -5968,7 +5968,7 @@ padding: 1em;
         font-style: normal;
         font-weight: 200;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNovaT-Thin-1.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNovaT-Thin-1.woff2') format('woff2');
     }
 
     @font-face {
@@ -5976,7 +5976,7 @@ padding: 1em;
         font-style: normal;
         font-weight: 300;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Light.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Light.woff2') format('woff2');
     }
 
     @font-face {
@@ -5984,7 +5984,7 @@ padding: 1em;
         font-style: normal;
         font-weight: 400;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Regular-1.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Regular-1.woff2') format('woff2');
     }
 
     @font-face {
@@ -5992,7 +5992,7 @@ padding: 1em;
         font-style: normal;
         font-weight: 500;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Regular-2.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Regular-2.woff2') format('woff2');
     }
 
     @font-face {
@@ -6000,7 +6000,7 @@ padding: 1em;
         font-style: normal;
         font-weight: 600;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Semibold.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Semibold.woff2') format('woff2');
     }
 
     @font-face {
@@ -6008,7 +6008,7 @@ padding: 1em;
         font-style: normal;
         font-weight: 700;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Bold.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Bold.woff2') format('woff2');
     }
 
     @font-face {
@@ -6016,7 +6016,7 @@ padding: 1em;
         font-style: normal;
         font-weight: 800;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Extrabld.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Extrabld.woff2') format('woff2');
     }
 
     @font-face {
@@ -6024,7 +6024,7 @@ padding: 1em;
         font-style: normal;
         font-weight: bold;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Bold-1.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Bold-1.woff2') format('woff2');
     }
 
     @font-face {
@@ -6032,7 +6032,7 @@ padding: 1em;
         font-style: normal;
         font-weight: normal;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Regular.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Regular.woff2') format('woff2');
     }
 
     @font-face {
@@ -6040,7 +6040,7 @@ padding: 1em;
         font-style: normal;
         font-weight: 100;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNovaT-Thin.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNovaT-Thin.woff2') format('woff2');
     }
 
     @font-face {
@@ -6048,7 +6048,7 @@ padding: 1em;
         font-style: normal;
         font-weight: 200;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNovaT-Thin-1.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNovaT-Thin-1.woff2') format('woff2');
     }
 
     @font-face {
@@ -6056,7 +6056,7 @@ padding: 1em;
         font-style: normal;
         font-weight: 300;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Light.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Light.woff2') format('woff2');
     }
 
     @font-face {
@@ -6064,7 +6064,7 @@ padding: 1em;
         font-style: normal;
         font-weight: 400;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Regular-1.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Regular-1.woff2') format('woff2');
     }
 
     @font-face {
@@ -6072,7 +6072,7 @@ padding: 1em;
         font-style: normal;
         font-weight: 500;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Regular-2.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Regular-2.woff2') format('woff2');
     }
 
     @font-face {
@@ -6080,7 +6080,7 @@ padding: 1em;
         font-style: normal;
         font-weight: 600;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Semibold.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Semibold.woff2') format('woff2');
     }
 
     @font-face {
@@ -6088,7 +6088,7 @@ padding: 1em;
         font-style: normal;
         font-weight: 700;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Bold.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Bold.woff2') format('woff2');
     }
 
     @font-face {
@@ -6096,7 +6096,7 @@ padding: 1em;
         font-style: normal;
         font-weight: 800;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Extrabld.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Extrabld.woff2') format('woff2');
     }
 
     @font-face {
@@ -6104,7 +6104,7 @@ padding: 1em;
         font-style: normal;
         font-weight: bold;
         font-display: auto;
-        src: url('<?php echo BASE_URL; ?>wp-content/uploads/2025/04/ProximaNova-Bold-1.woff2') format('woff2');
+        src: url('https://themerchlist.com/wp-content/uploads/2025/04/ProximaNova-Bold-1.woff2') format('woff2');
     }
     </style>
     <style class="gtranslate_css">
