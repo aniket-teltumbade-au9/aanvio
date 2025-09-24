@@ -1,0 +1,373 @@
+.cbk_pagination{
+	cursor:pointer;
+	float:right;
+	margin:10px 0;
+}
+
+.cbk_status_label{
+	display: -webkit-inline-box;
+	display: -webkit-inline-flex;
+	display: inline-flex;
+	line-height: 2.5em;
+	border-radius: 4px;
+	border-bottom: 1px solid rgba(0,0,0,.05);
+	margin: -.25em 0;
+	cursor: inherit !important;
+	white-space: nowrap;
+	max-width: 100%;
+	padding:0px 10px;
+}
+
+.cbk_credit_status {
+	color: #fff;
+	background: #00cc99;
+}
+
+.cbk_debit_status {
+	color: #fff;
+	background: #ff0000;
+}
+
+.cbk_cashback_table tfoot {
+	border: none;
+	box-shadow: none;
+}
+
+.cbk_cashback_table tfoot td {
+	padding-right: 0;
+	background: none;
+	border: none;
+}
+
+.cbk_cashback_table tfoot nav {
+	float: right;
+	border: 0;
+	clear: none;
+	padding: 0;
+	margin-bottom: 0;
+}
+
+.cbk_cashback_table tfoot nav ul {
+	margin: 0;
+	list-style: none;
+	border: none !important;
+}
+
+.cbk_cashback_table tfoot nav ul li {
+	display: inline-block;
+	margin-left: 3px;
+}
+
+.cbk_cashback_table tfoot nav ul li span {
+	margin: 0;
+	padding: 0;
+}
+
+.cbk_cashback_table tfoot nav ul li a {
+	display: inline-block;
+	padding: 10px;
+	margin: 0;
+	background: #fafafa;
+	border: none;
+	color: #43454b;
+	text-decoration: none;
+}
+
+.cbk_cashback_table tfoot nav ul li .current {
+	background: none;
+	border: none;
+}
+
+.cbk_cashback_table tfoot nav ul li .current a,
+.cbk_cashback_table tfoot nav ul li a:hover {
+	background: #ccc;
+	border: none;
+	color: #000;
+}
+
+#cbk_hide{
+	display: none;
+}
+
+.cbk-eligible-product-list-popup {
+	width: 100%;
+	border-collapse: collapse;    
+}
+
+.cbk-eligible-product-list-popup thead th {
+	padding: 15px;
+	background: #f8f8f8;
+}
+
+.cbk-eligible-product-list-popup tbody td {
+	padding: 15px;
+}
+
+.cbk-eligible-product-list-popup tbody tr:nth-child(2n) {
+	background: #fbfbfb;
+}
+
+.cbk-eligible-product-list-popup tfoot td {
+	padding: 15px;
+	border-top: 1px solid #000;
+	background: #fff;
+	font-weight: bold;
+}
+
+.cbk-eligible-product-list:hover,
+.cbk-product-cashback-list:hover,
+.cbk-restricted-product-list:hover,
+.cbk-restricted-gateway-list:hover,
+.cbk-restricted-shipping-list:hover {
+	cursor: pointer;
+}
+
+.cbk_copy_success_message{
+	position:absolute;
+	width:100%;
+	height:100%;
+	top:100px;
+	right:20px;
+	z-index: 999;
+}
+.cbk_copy_success_message_content{
+	position:fixed;
+	width:200px;
+	height:50px;
+	background:#333;
+	display:block;
+	top:100px;
+	right:20px;
+	z-index: 999;
+}
+.cbk_copy_success_message p{
+	color:#fff;
+	font-size: 16px;
+	text-align: left;
+	padding:10px;
+}
+.cbk_copy_clip_icon img{
+	float:right;
+}
+
+.cbk-filter {
+	display: flex;
+	margin: 10px 0;
+}
+
+.cbk-filter input[type='number'] {
+	padding: .6180469716em;
+  width: 60px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 0 0 2px #000 inset;
+  margin: 0 3px 0 0 !important;
+  height: 45px;
+  box-sizing: border-box;
+}
+
+.cbk-filter select {
+	padding: .6180469716em;
+	width: 85px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	background: #fff;
+	box-shadow: 0 0 2px #000 inset;
+	margin: 0 3px 0 0 !important;
+	height: 45px;
+	box-sizing: border-box;
+}
+
+.cbk-filter input[type='submit'] {
+ margin: 0;
+  padding: 10px 7px;
+  width: auto;
+  color: #000;
+  background: linear-gradient(to right, #e8e8e8 , #f9f9f9);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: none;
+  text-decoration: none;
+  font-weight: 600;
+  text-shadow: none;
+  display: inline-block;
+  -webkit-appearance: none;
+  line-height: 1.5em;
+  text-transform: none;
+}
+
+.cbk-filter label,
+.cbk-filter input[type='number'] {
+	display: inline-block !important;
+}
+
+.cbk-filter .cbk-date-filter-type,
+.cbk-filter .cbk-custom-date-range {
+	float: left;
+	margin-right: 3px;
+}
+
+.cbk-date-filter,
+.cbk-pagination-filter {
+	margin: 7px 0;
+}
+
+.cbk-pagination-filter {
+	margin-right: 5px;
+}
+
+.cbk-date-filter form,
+.cbk-pagination-filter form{ 
+  margin: 0 !important;
+}
+
+.cbk-date-filter form .cbk-custom-date-range {
+	display: flex;
+}
+
+.cbk-date-filter form .cbk-custom-date-range label {
+	font-size: 14px;
+	line-height: 40px;
+	margin-right: 5px;
+}
+
+.cbk-date-filter form .cbk-custom-date-range input[type="text"] {
+	padding: .6180469716em;
+  width: 50px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 0 0 2px #000 inset;
+  margin: 0 3px 0 0 !important;
+  height: 45px;
+  box-sizing: border-box;
+}
+
+.cbk-date-filter form .cbk-custom-date-range img {
+	width: 20px;
+	height: 20px;
+	margin: 13px 3px 0 0;
+}
+
+.cbk_cashback_table {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	border-collapse: collapse;
+}
+
+.cbk_cashback_table thead {
+	background: #f7f7f7;
+}
+
+.cbk_cashback_table thead th {
+	padding: 15px;
+	color: #333;
+	background: #f7f7f7;
+	border: none;
+	text-transform: capitalize;
+	font-size: 16px;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.cbk_cashback_table tbody tr:nth-child(2n) {
+	background: #fafafa;
+}
+
+.cbk_cashback_table tbody td {
+	padding: 15px;
+	color: #666;
+	background: none;
+	border: none;
+	font-size: 14px;
+	text-align: left;
+	vertical-align: middle;
+	word-break: break-all;
+}
+
+@media screen and (max-width: 768px) {
+
+	.cbk_cashback_table tfoot tr td {
+		border-bottom:none;
+	}
+	.cbk_cashback_table tfoot tr td::before {
+		float: left;
+		content:" ";
+		font-weight: 700;
+	}
+	.cbk_cashback_table {
+		border: 1px solid #f1f1f1;
+	}
+	.cbk_cashback_table tbody tr {
+		display: block;
+	}
+	.cbk_cashback_table thead {
+		display: none;
+	}
+	.cbk_cashback_table tr td::before {
+		float: left;
+		content: attr(data-title) ": ";
+		font-weight: 700;
+	}
+	.cbk_cashback_table tr td {
+		display: block;
+		border-right: 0;
+		border-bottom: 1px solid #f1f1f1;
+		text-align: right !important;
+	}
+
+	.cbk-filter {
+		display: block;
+		margin: 10px 0;
+		width: 100%;
+	}
+
+	.cbk-filter .cbk-pagination-filter {
+		width: 100%;
+		float: left;
+	}
+
+	.cbk-filter input[type="number"] {
+		width:100%;
+		float: left;
+		margin-bottom: 10px !important;
+	}
+	.cbk-filter label {
+		float: left;
+	}
+
+	 .cbk-filter .cbk-date-filter {
+		width: 100%;
+		float: left;
+	 }
+	 .cbk-filter select {
+		width: 100%;
+		margin-bottom: 10px !important;
+	 }
+	 .cbk-date-filter form .cbk-custom-date-range {
+		display: block;
+	 }
+	 .cbk-date-filter form .cbk-custom-date-range label,
+	 .cbk-date-filter form .cbk-custom-date-range input[type="text"],
+	 .cbk-date-filter form .cbk-custom-date-range img,
+	 .cbk-filter input[type="submit"] {
+		float: left;
+		margin-bottom: 10px !important;
+	 }
+	 .cbk-date-filter form .cbk-custom-date-range input[type="text"] {
+		width: 94%;
+	 }
+
+	 .cbk-filter input[type="submit"] {
+		width: 100%;
+	 }
+
+	 .cbk-custom-date-range label {
+		width: 100%;
+		float: left;
+	 }
+
+}

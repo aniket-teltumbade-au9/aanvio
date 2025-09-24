@@ -1,0 +1,67 @@
+.yay-currency-cache-loading .woocommerce-Price-amount.amount,
+.yay-currency-single-page-switcher.yay-currency-cache-loading .yay-currency-custom-selected-option {
+    position: relative;
+}
+
+.yay-currency-cache-opacity {
+    opacity: 0.5;
+}
+
+.yay-currency-cache-loading .woocommerce-Price-amount.amount:before,
+.yay-currency-country-currency-notice-wrapper.yay-currency-cache-loading:before {
+    background-color: #f0f0f0;
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.yay-currency-cache-loading .woocommerce-Price-amount.amount:after,
+.yay-currency-country-currency-notice-wrapper.yay-currency-cache-loading:after,
+.yay-currency-single-page-switcher.yay-currency-cache-loading .yay-currency-custom-selected-option:after {
+    background-color: #fefefe;
+    opacity: 0.5;
+    width: 10px;
+    animation: yay_currency_animation_effect 1s infinite;
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    filter: blur(1px);
+}
+
+
+.yay-currency-single-page-switcher.yay-currency-cache-loading .yay-currency-custom-selected-option:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 5px;
+    right: 0;
+    bottom: 0;
+    background-color: #f0f0f0;
+}
+
+.yay-currency-single-page-switcher.yay-currency-cache-loading .yay-currency-custom-select__trigger {
+    line-height: 20px;
+}
+
+.yay-currency-country-currency-notice-wrapper.yay-currency-cache-loading {
+    position: relative;
+    width: auto;
+    display: block;
+    margin-bottom: 10px;
+}
+
+
+@keyframes yay_currency_animation_effect {
+    0% {
+        left: 0;
+    }
+
+    100% {
+        left: 100%;
+    }
+}
